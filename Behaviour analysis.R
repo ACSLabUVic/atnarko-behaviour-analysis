@@ -1,6 +1,6 @@
 
 ###########
-# Coexistence in an ecotourism system entails spatial filtering of individual grizzly bears tolerant of human activity 
+# Are behavioral observations gathered from tolerant individuals? An assessment of grizzly bear-ecotourism coexistence through spatial and behavioral lenses
 # Behaviour analysis
 ###########
 
