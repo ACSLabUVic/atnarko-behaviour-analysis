@@ -1,0 +1,524 @@
+project,sample,site,revisit,revisitid,g_hair,u_hair,type,barb,hair_colour,site_id,site_number,site_type,season,revisit_date,revisit_crew,site_name.x,utme,utmn,utm_zone,individual,sex,species,year,Treatment
+nt,17052,at25,9,2019at2509,>10,,g,a6,bl,2019at25,at25,passive,fall,10/08/2019,"kf, as, km",little tweedsmuir,699677,5805811,9,36523,female,black,2019,Platform_Drift
+nt,17057,at25,4,2019at2505,10-Apr,,g,b11,br,2019at25,at25,passive,summer,08/22/2019,"as, km, bc",little tweedsmuir,699677,5805811,9,17079,female,grizzly,2019,Platform_Drift
+nt,17060,at01,5,2019at0105,>10,>10,both,a34,br,2019at01,at01,passive,summer,08/29/2019,"kf, as, bc",stillwater forest,311025,5803339,10,43416,female,grizzly,2019,Reference
+nt,17062,at20,5,2019at2005,>10,>10,both,a14,br,2019at20,at20,passive,summer,08/28/2019,"as, km",fish bone,297417,5807661,10,41396,female,grizzly,2019,Landbased
+nt,17064,at20,5,2019at2005,>10,>10,both,a20,mixed,2019at20,at20,passive,summer,08/28/2019,"as, km",fish bone,297417,5807661,10,41396,female,grizzly,2019,Landbased
+nt,17066,at16,5,2019at1605,lots,lots,both,b8,mixed,2019at16,at16,passive,summer,08/28/2019,"as, km",lost hat,300787,5810425,10,40020,female,grizzly,2019,Landbased
+nt,17072,at16,5,2019at1605,>10,>10,both,ground b6,br,2019at16,at16,passive,summer,08/28/2019,"as, km",lost hat,300787,5810425,10,50552,female,grizzly,2019,Landbased
+nt,17073,at09,4,2019at0904,>10,>10,both,b8,mixed,2019at09,at09,passive,summer,08/24/2019,"ch,kf,km",blair's hole,307603,5808688,10,22313,female,grizzly,2019,Reference
+nt,17074,at09,5,2019at0905,10-Apr,10-Apr,both,a11,br,2019at09,at09,passive,summer,08/30/2019,"as, km, bc",blair's hole,307603,5808688,10,43416,female,grizzly,2019,Reference
+nt,17077,at05,3,2019at0503,>10,,g,b43,br,2019at05,at05,passive,summer,08/18/2019,"kf, as",line cabin,309302,5806163,10,22587,female,grizzly,2019,Reference
+nt,17079,at13,5,2019at1305,>10,>10,both,b15,mixed,2019at13,at13,passive,summer,08/28/2019,"as, km",wood cut road,304271,5810444,10,17079,female,grizzly,2019,Landbased
+nt,17081,at08,2,2019at0802,>10,03-Jan,both,b5,br,2019at08,at08,passive,summer,08/13/2019,"kf, as, jm",63 hole,307975,5808563,10,49830,female,grizzly,2019,Reference
+nt,17085,at05,3,2019at0503,10-Apr,lots,both,a21,br,2019at05,at05,passive,summer,08/18/2019,"kf, as",line cabin,309302,5806163,10,43089,male,grizzly,2019,Reference
+nt,17087,at11,3,2019at1103,lots,lots,both,a8,mixed,2019at11,at11,passive,summer,08/17/2019,"as, km",frog water,305595,5809726,10,43089,male,grizzly,2019,Landbased
+nt,17090,at11,2,2019at1102,>10,>10,both,a7,mixed,2019at11,at11,passive,summer,08/13/2019,"kf, jm, as",frog water,305595,5809726,10,43089,male,grizzly,2019,Landbased
+nt,17092,at09,2,2019at0902,>10,03-Jan,both,a13,bl,2019at09,at09,passive,summer,08/13/2019,"as, kf, jm",blair's hole,307603,5808688,10,43464,female,black,2019,Reference
+nt,17093,at08,2,2019at0802,10-Apr,>10,both,a18,br,2019at08,at08,passive,summer,08/13/2019,"kf, as, jm",63 hole,307975,5808563,10,49830,female,grizzly,2019,Reference
+nt,17228,at17,11,2019at1711,>10,>10,both,b22,br,2019at17,at17,passive,fall,10/22/2019,"kf, as, km",bc wrights,299622,5810216,10,41434,female,grizzly,2019,Landbased
+nt,17364,at05,10,2019at0510,10-Apr,>10,both,a14,br,2019at05,at05,passive,fall,10/16/2019,"kf, as ",line cabin,309302,5806163,10,43446,female,grizzly,2019,Reference
+nt,17369,at14,11,2019at1411,03-Jan,03-Jan,both,a46,mixed,2019at14,at14,passive,fall,10/22/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,43360,male,grizzly,2019,Landbased
+nt,17376,at05,10,2019at0510,>10,>10,both,c8,br,2019at05,at05,passive,fall,10/16/2019,"kf, as ",line cabin,309302,5806163,10,43446,female,grizzly,2019,Reference
+nt,17499,at02,10,2019at0210,10-Apr,>10,both,a5,br,2019at02,at02,passive,fall,10/16/2019,"kf, as",stillwater falls,310913,5804151,10,30354,female,grizzly,2019,Reference
+nt,17546,at23,11,2019at2311,>10,>10,both,a38,mixed,2019at23,at23,passive,fall,10/22/2019,"kf, as, km",kettle confluence,701627,5805155,9,17546,female,grizzly,2019,Landbased
+nt,18191,at05,3,2020at0503,>10,n/a,g,b20,br,2020at05,at05,passive,summer,08/31/2020,"ei, km, sh.m",line cabin,309306,5806156,10,18192,female,grizzly,2020,Reference
+nt,18192,at03,3,2020at0303,10-Apr,10-Apr,both,a29,br,2020at03,at03,passive,summer,08/31/2020,"ei, km, sh.m",hotnarko,310603,5804663,10,18192,female,grizzly,2020,Reference
+nt,18193,at17,4,2020at1704,>10,n/a,g,a12,bl,2020at17,at17,passive,summer,09/06/2020,"kf, sm, ei",bc wrights,299761,5810352,10,38625,female,black,2020,Landbased
+nt,18203,at06,4,2020at0604,>10,n/a,g,b3,br,2020at06,at06,passive,summer,09/14/2020,"kf, ei, rb",sheep creek,309242,5807385,10,30318,female,grizzly,2020,Reference
+nt,18206,at06,4,2020at0604,10-Apr,10-Apr,both,b22,br,2020at06,at06,passive,summer,09/14/2020,"kf, ei, rb",sheep creek,309242,5807385,10,30318,female,grizzly,2020,Reference
+nt,18207,at06,5,2020at0605,lots,lots,both,a8,mixed,2020at06,at06,passive,fall,09/23/2020,"sm, km, ei",sheep creek,309242,5807385,10,50364,female,grizzly,2020,Reference
+nt,18208,at06,5,2020at0605,10-Apr,lots,both,a7,bl,2020at06,at06,passive,fall,09/23/2020,"sm, km, ei",sheep creek,309242,5807385,10,50364,female,grizzly,2020,Reference
+nt,18215,at03,3,2020at0303,lots,lots,both,a33,br,2020at03,at03,passive,summer,08/31/2020,"ei, km, sh.m",hotnarko,310603,5804663,10,36879,female,grizzly,2020,Reference
+nt,18219,at23,2,2020at2302,03-Jan,n/a,g,a42,bl,2020at23,at23,passive,summer,08/17/2020,"kf, sh.m, km, seas",kettle confluence,701679,5805321,9,18219,female,grizzly,2020,Landbased
+nt,18222,at25,2,2020at2502,10-Apr,10-Apr,both,a50,mixed,2020at25,at25,passive,summer,08/21/2020,"kf, sh.m, km",little tweeds,699646,5805753,9,49988,female,grizzly,2020,Platform_Drift
+nt,18228,at23,2,2020at2302,>10,>10,both,a2,br,2020at23,at23,passive,summer,08/17/2020,"kf, sh.m, km, seas",kettle confluence,701679,5805321,9,18228,female,grizzly,2020,Landbased
+nt,18229,at17,5,2020at1705,lots,lots,both,d30,bl,2020at17,at17,passive,summer,09/17/2020,"kf, sm, ei",bc wrights,299761,5810352,10,38625,female,black,2020,Landbased
+nt,18231,at17,5,2020at1705,lots,lots,both,d24,bl,2020at17,at17,passive,summer,09/17/2020,"kf, sm, ei",bc wrights,299761,5810352,10,38625,female,black,2020,Landbased
+nt,18236,at24b,3,2020at24b03,>10,n/a,g,b6,bl,2020at24b,at24b,passive,summer,08/27/2020,"kf, sm, jm",belarko 2,700565,5805748,9,18236,female,grizzly,2020,Platform_Drift
+nt,18237,at06,3,2020at0603,n/a,10-Apr,u,a12,br,2020at06,at06,passive,summer,08/31/2020,"ei, km, sh.m",sheep creek,309242,5807385,10,18237,male,grizzly,2020,Reference
+nt,18238,at06,3,2020at0603,>10,>10,both,a22,br,2020at06,at06,passive,summer,08/31/2020,"ei, km, sh.m",sheep creek,309242,5807385,10,18237,male,grizzly,2020,Reference
+nt,18242,at15,0,2020at1500,10-Apr,n/a,g,a27,bl,2020at15,at15,passive,summer,08/02/2020,"kf, sm, ei",camp creek,301461,5810371,10,18242,female,black,2020,Landbased
+nt,18245,at06,2,2020at0602,10-Apr,10-Apr,both,b4,mixed,2020at06,at06,passive,summer,08/18/2020,"kf, sh.m, km",sheep creek,309242,5807385,10,50520,male,grizzly,2020,Reference
+nt,18375,at23,7,2021at2307,lots,n/a,g,a6,bl,2021at23,at23,passive,summer,09/29/2021,"ns, ei",kettle confluence,701637,5805050,9,18375,male,grizzly,2021,Landbased
+nt,18383,at14,7,2021at1407,03-Jan,03-Jan,both,a21,mixed,2021at14,at14,passive,summer,09/29/2021,"ns, sm, ei",atnarko campground,302042,5809951,10,40119,female,grizzly,2021,Landbased
+nt,18384,at13,7,2021at1307,10-Apr,n/a,g,c8,bl,2021at13,at13,passive,summer,09/29/2021,"ns, sm, ei",woodcut,302976,5810084,10,58476,male,grizzly,2021,Landbased
+nt,18409,at09,2,2021at0902,lots,lots,both,b23,mixed,2021at09,at09,passive,summer,08/18/2021,"ns, sm, rs",blair's hole,307593,5808684,10,18597,male,grizzly,2021,Reference
+nt,18414,at03,1,2021at0301,lots,lots,both,a32,br,2021at03,at03,passive,summer,08/09/2021,"ns, sm, ei, rs",hotnarko,310622,5804721,10,36879,female,grizzly,2021,Reference
+nt,18416,at03,1,2021at0301,10-Apr,10-Apr,both,a37,br,2021at03,at03,passive,summer,08/09/2021,"ns, sm, ei, rs",hotnarko,310622,5804721,10,36879,female,grizzly,2021,Reference
+nt,18417,at03,1,2021at0301,10-Apr,10-Apr,both,a28,br,2021at03,at03,passive,summer,08/09/2021,"ns, sm, ei, rs",hotnarko,310622,5804721,10,38791,male,grizzly,2021,Reference
+nt,18420,at37,1,2021at3701,10-Apr,10-Apr,both,a7,br,2021at37,at37,passive,summer,08/05/2021,"ns, sm, ei, rs",fisheries pool 3,698502,5806877,9,18236,female,grizzly,2021,Platform_Drift
+nt,18423,at02,5,2021at0205,10-Apr,n/a,g,a26,br,2021at02,at02,passive,summer,09/16/2021,"ns, rs, ei",stillwater falls,310909,5804144,10,38664,male,grizzly,2021,Reference
+nt,18426,at08,5,2021at0805,>10,n/a,g,b8,br,2021at08,at08,passive,summer,09/15/2021,"ns, rs, ei",63 hole,307971,5808566,10,38664,male,grizzly,2021,Reference
+nt,18427,at08,5,2021at0805,lots,n/a,g,b5,br,2021at08,at08,passive,summer,09/15/2021,"ns, rs, ei",63 hole,307971,5808566,10,18427,female,grizzly,2021,Reference
+nt,18433,at08,5,2021at0805,03-Jan,n/a,g,a15,br,2021at08,at08,passive,summer,09/15/2021,"ns, rs, ei",63 hole,307971,5808566,10,50552,female,grizzly,2021,Reference
+nt,18436,at05,5,2021at0505,lots,lots,both,c4,mixed,2021at05,at05,passive,summer,09/16/2021,"ns, rs, ei",line cabin,309292,5806176,10,41301,female,grizzly,2021,Reference
+nt,18446,at14,5,2021at1405,lots,lots,both,a19,br,2021at14,at14,passive,summer,09/14/2021,"ns, rs, ei",atnarko campground,302042,5809951,10,18446,male,grizzly,2021,Landbased
+nt,18457,at17,5,2021at1705,10-Apr,lots,both,d16,br,2021at17,at17,passive,summer,09/14/2021,"ns, rs, ei",bc wrights,299832,5810287,10,30354,female,grizzly,2021,Landbased
+nt,18465,at05,6,2021at0506,10-Apr,n/a,g,6,br,2021at05,at05,passive,summer,09/24/2021,"nc, rs",line cabin,309292,5806176,10,30354,female,grizzly,2021,Reference
+nt,18466,at17,5,2021at1705,>10,n/a,g,e7,br,2021at17,at17,passive,summer,09/14/2021,"ns, rs, ei",bc wrights,299832,5810287,10,40119,female,grizzly,2021,Landbased
+nt,18469,at17,5,2021at1705,>10,n/a,g,d8,br,2021at17,at17,passive,summer,09/14/2021,"ns, rs, ei",bc wrights,299832,5810287,10,38818,male,grizzly,2021,Landbased
+nt,18476,at11,8,2021at1108,lots,lots,both,a3,br,2021at11,at11,passive,summer,10/08/2021,"sm, ei, rs",frog water,305584,5809732,10,30354,female,grizzly,2021,Landbased
+nt,18482,at05,8,2021at0508,>10,>10,both,a28,br,2021at05,at05,passive,summer,10/14/2021,"kf, ks, rs, ei, ns, ip",line cabin,309292,5806176,10,30354,female,grizzly,2021,Reference
+nt,18483,at05,8,2021at0508,lots,n/a,g,a36,br,2021at05,at05,passive,summer,10/14/2021,"kf, ks, rs, ei, ns, ip",line cabin,309292,5806176,10,57176,female,grizzly,2021,Reference
+nt,18497,at05,7,2021at0507,>10,n/a,g,a49,br,2021at05,at05,passive,summer,10/06/2021,"kf, rs, ei",line cabin,309292,5806176,10,50552,female,grizzly,2021,Reference
+nt,18500,at02,7,2021at0207,10-Apr,03-Jan,both,a59,br,2021at02,at02,passive,summer,10/06/2021,"kf, rs, ei",stillwater falls,310909,5804144,10,41455,female,grizzly,2021,Reference
+nt,18501,at16,9,2021at1609,>10,10-Apr,both,c6,br,2021at16,at16,passive,summer,10/18/2021,"sm, ei, ns",lost hat,300800,5810409,10,49576,male,grizzly,2021,Landbased
+nt,18505,at17,9,2021at1709,10-Apr,10-Apr,both,c18,br,2021at17,at17,passive,summer,10/18/2021,"sm, ei, ns",bc wrights,299832,5810287,10,18505,female,grizzly,2021,Landbased
+nt,18506,at17,6,2021at1706,>10,10-Apr,both,a33,mixed,2021at17,at17,passive,summer,09/22/2021,"kf,rs",bc wrights,299832,5810287,10,18506,male,grizzly,2021,Landbased
+nt,18508,at13,6,2021at1306,>10,03-Jan,both,a5,mixed,2021at13,at13,passive,summer,09/22/2021,"kf, rs",woodcut,302976,5810084,10,22313,female,grizzly,2021,Landbased
+nt,18515,at37,10,2021at3710,lots,lots,both,a24,mixed,2021at37,at37,passive,summer,10/15/2021,"kf, sm, rs",fisheries pool 3,698502,5806877,9,41113,female,grizzly,2021,Platform_Drift
+nt,18517,at37,10,2021at3710,10-Apr,10-Apr,both,a7,br,2021at37,at37,passive,summer,10/15/2021,"kf, sm, rs",fisheries pool 3,698502,5806877,9,41113,female,grizzly,2021,Platform_Drift
+nt,18522,at09,6,2021at0906,10-Apr,>10,both,a3,mixed,2021at09,at09,passive,summer,09/23/2021,"kf, rs",blair's hole,307593,5808684,10,40223,male,grizzly,2021,Reference
+nt,18531,at17,5,2021at1705,10-Apr,>10,both,a19,br,2021at17,at17,passive,summer,09/14/2021,"ns, rs, ei",bc wrights,299832,5810287,10,38818,male,grizzly,2021,Landbased
+nt,18536,at37,10,2021at3710,lots,lots,both,a3,mixed,2021at37,at37,passive,summer,10/15/2021,"kf, sm, rs",fisheries pool 3,698502,5806877,9,41086,male,grizzly,2021,Platform_Drift
+nt,18564,at37,11,2021at3711,10-Apr,lots,both,a2,br,2021at37,at37,passive,summer,10/27/2021,"rs, sm, ei",fisheries pool 3,698502,5806877,9,49988,female,grizzly,2021,Platform_Drift
+nt,18569,at01,10,2021at0110,>10,03-Jan,both,a4,br,2021at01,at01,passive,summer,10/29/2021,"rs, ei, kf",stillwater forest,311026,5803348,10,50552,female,grizzly,2021,Reference
+nt,18587,at02,5,2021at0205,lots,n/a,g,a9,br,2021at02,at02,passive,summer,09/16/2021,"ns, rs, ei",stillwater falls,310909,5804144,10,41455,female,grizzly,2021,Reference
+nt,18594,at09,5,2021at0905,10-Apr,10-Apr,both,a3,br,2021at09,at09,passive,summer,09/15/2021,"ns, rs, ei",blair's hole,307593,5808684,10,38758,female,grizzly,2021,Reference
+nt,18597,at09,5,2021at0905,10-Apr,lots,both,a9,br,2021at09,at09,passive,summer,09/15/2021,"ns, rs, ei",blair's hole,307593,5808684,10,18597,male,grizzly,2021,Reference
+nt,18600,at24,8,2021at2408,10-Apr,>10,both,a5,br,2021at24,at24,passive,summer,09/29/2021,"rs, kf, lh, rs",belarko,700609,5805750,9,18600,male,grizzly,2021,Platform_Drift
+nt,18605,at03,5,2021at0305,03-Jan,10-Apr,both,a32,br,2021at03,at03,passive,summer,09/16/2021,"ns, rs, ei",hotnarko,310622,5804721,10,41455,female,grizzly,2021,Reference
+nt,18607,at24b,8,2021at24b08,>10,>10,both,a27,br,2021at24b,at24b,passive,summer,09/29/2021,"rs, kf, lh, rs",belarko 2,700555,5805746,9,18607,female,grizzly,2021,Platform_Drift
+nt,18609,at07,6,2021at0706,>10,>10,both,a45,br,2021at07,at07,passive,summer,09/23/2021,"kf, rs",talus,308309,5808239,10,30354,female,grizzly,2021,Reference
+nt,18614,at23,6,2021at2306,>10,>10,both,a18,mixed,2021at23,at23,passive,summer,09/13/2021,"kf, ei, rs",little tweeds,701637,5805050,9,17079,female,grizzly,2021,Landbased
+nt,18614,at23,6,2021at2306,>10,>10,both,a18,mixed,2021at23,at23,passive,summer,09/22/2021,"kf,rs",kettle confluence,701637,5805050,9,17079,female,grizzly,2021,Landbased
+nt,18617,at07,6,2021at0706,10-Apr,n/a,g,a2,br,2021at07,at07,passive,summer,09/23/2021,"kf, rs",talus,308309,5808239,10,40051,male,grizzly,2021,Reference
+nt,18618,at23,6,2021at2306,lots,lots,both,a13,bl,2021at23,at23,passive,summer,09/13/2021,"kf, ei, rs",little tweeds,701637,5805050,9,40108,female,grizzly,2021,Landbased
+nt,18618,at23,6,2021at2306,lots,lots,both,a13,bl,2021at23,at23,passive,summer,09/22/2021,"kf,rs",kettle confluence,701637,5805050,9,40108,female,grizzly,2021,Landbased
+nt,18619,at05,5,2021at0505,lots,lots,both,a6,mixed,2021at05,at05,passive,summer,09/16/2021,"ns, rs, ei",line cabin,309292,5806176,10,40051,male,grizzly,2021,Reference
+nt,18623,at01,5,2021at0105,03-Jan,10-Apr,both,b10,br,2021at01,at01,passive,summer,09/16/2021,"ns, rs, ei",stillwater forest,311026,5803348,10,22587,female,grizzly,2021,Reference
+nt,18624,at01,5,2021at0105,10-Apr,03-Jan,both,b11,mixed,2021at01,at01,passive,summer,09/16/2021,"ns, rs, ei",stillwater forest,311026,5803348,10,22587,female,grizzly,2021,Reference
+nt,18626,at01,5,2021at0105,lots,lots,both,b18,br,2021at01,at01,passive,summer,09/16/2021,"ns, rs, ei",stillwater forest,311026,5803348,10,18626,female,grizzly,2021,Reference
+nt,18629,at10,5,2021at1005,>10,n/a,g,a31,bl,2021at10,at10,passive,summer,09/15/2021,"ns, rs, ei",billy's cabin,306696,5809455,10,58476,male,grizzly,2021,Landbased
+nt,18641,at37,8,2021at3708,>10,>10,both,a1,bl,2021at37,at37,passive,summer,09/29/2021,"rs, kf, lh, rs",fisheries pool 3,698502,5806877,9,38709,female,grizzly,2021,Platform_Drift
+nt,18643,at08,6,2021at0806,>10,>10,both,a7,br,2021at08,at08,passive,summer,09/23/2021,"kf, rs",63 hole,307971,5808566,10,50552,female,grizzly,2021,Reference
+nt,18646,at06,5,2021at0605,10-Apr,n/a,g,b22,br,2021at06,at06,passive,summer,09/16/2021,"ns, rs, ei",sheep creek,309224,5807406,10,40223,male,grizzly,2021,Reference
+nt,18649,at05,5,2021at0505,10-Apr,lots,both,c10,mixed,2021at05,at05,passive,summer,09/16/2021,"ns, rs, ei",line cabin,309292,5806176,10,30318,female,grizzly,2021,Reference
+nt,18650,at05,5,2021at0505,10-Apr,>10,both,b26,mixed,2021at05,at05,passive,summer,09/16/2021,"ns, rs, ei",line cabin,309292,5806176,10,38938,female,grizzly,2021,Reference
+nt,18655,at10,6,2021at1006,10-Apr,10-Apr,both,a23,br,2021at10,at10,passive,summer,09/23/2021,"kf, rs",billy's cabin,306696,5809455,10,30354,female,grizzly,2021,Landbased
+nt,18659,at06,6,2021at0606,>10,>10,both,a34,br,2021at06,at06,passive,summer,09/24/2021,"nc, rs",sheep creek,309224,5807406,10,38593,female,grizzly,2021,Reference
+nt,18700,at08,6,2021at0806,>10,10-Apr,both,b10,br,2021at08,at08,passive,summer,09/23/2021,"kf, rs",63 hole,307971,5808566,10,30354,female,grizzly,2021,Reference
+nt,18710,at10,4,2021at1004,10-Apr,03-Jan,both,a48,br,2021at10,at10,passive,summer,09/04/2021,"cd, rs, kf",billy's cabin,306696,5809455,10,40170,male,grizzly,2021,Landbased
+nt,18720,at26b,3,2021at26b03,>10,10-Apr,both,a17,br,2021at26b,at26b,passive,summer,08/19/2021,"rs, sm, ei",big tweeds 2,699250,5806200,9,18720,male,grizzly,2021,Platform_Drift
+nt,18723,at02,4,2021at0204,>10,10-Apr,both,a5,bl,2021at02,at02,passive,summer,08/30/2021,"kf, sm, nc",stillwater falls,310909,5804144,10,41086,male,grizzly,2021,Reference
+nt,18727,at24,7,2021at2407,10-Apr,10-Apr,both,b32,br,2021at24,at24,passive,summer,09/21/2021,"kf, sm, rs",belarko,700609,5805750,9,38709,female,grizzly,2021,Platform_Drift
+nt,18744,at06,3,2021at0603,lots,n/a,g,b19,br,2021at06,at06,passive,summer,08/24/2021,"nc, sm, ei",sheep creek,309224,5807406,10,57176,female,grizzly,2021,Reference
+nt,18746,at05,2,2021at0502,10-Apr,10-Apr,both,a9,br,2021at05,at05,passive,summer,08/17/2021,"ns, sm, rs",line cabin,309292,5806176,10,18746,male,grizzly,2021,Reference
+nt,18747,at15,11,2021at1511,>10,n/a,g,a8,mixed,2021at15,at15,passive,summer,11/01/2021,"ns, ei",camp creek,301454,5810377,10,49914,female,grizzly,2021,Landbased
+nt,18748,at21b,11,2021at21b11,10-Apr,lots,both,b10,br,2021at21b,at21b,passive,summer,11/01/2021,"ns, ei",cub bawl 2,296487,5806415,10,18505,female,grizzly,2021,Landbased
+nt,30318,at09,6,2019at0906,lots,>10,both,a7,bl,2019at09,at09,passive,summer,09/06/2019,"jm, qh, de",blair's hole,307603,5808688,10,30318,female,grizzly,2019,Reference
+nt,30336,at10,6,2019at1006,>10,>10,both,a26,br,2019at10,at10,passive,summer,09/06/2019,"jm, qh, de",billy's cabin,306611,5809269,10,22313,female,grizzly,2019,Landbased
+nt,30344,at07,6,2019at0706,10-Apr,10-Apr,both,ground a08,br,2019at07,at07,passive,summer,09/06/2019,"jm, qh, de",talus slide,308326,5808239,10,30344,female,grizzly,2019,Reference
+nt,32294,at08,6,2019at0806,10-Apr,,g,a9,bl,2019at08,at08,passive,summer,09/06/2019,"bw, de, ta, km",63 hole,307975,5808563,10,32294,female,grizzly,2019,Reference
+nt,38563,at07,4,2020at0704,10-Apr,10-Apr,both,a42,br,2020at07,at07,passive,summer,09/03/2020,"km, sh.m, sm",talus,308323,5808185,10,18237,male,grizzly,2020,Reference
+nt,38566,at31,8,2020at3108,>10,>10,both,a3,br,2020at31,at31,passive,fall,10/08/2020,"kf, sh.m, km",fisheries pool 3,698469,5806884,9,38566,female,grizzly,2020,Platform_Drift
+nt,38570,at13,4,2020at1304,03-Jan,10-Apr,both,b28,br,2020at13,at13,passive,summer,09/06/2020,"kf, sm, ei",woodcut rd,303035,5810139,10,36879,female,grizzly,2020,Landbased
+nt,38573,at23,8,2020at2308,10-Apr,03-Jan,both,a14,br,2020at23,at23,passive,fall,10/14/2020,"kf, sm, ei",kettle confluence,701679,5805321,9,38573,female,grizzly,2020,Landbased
+nt,38574,at03,5,2020at0305,>10,03-Jan,both,a47,br,2020at03,at03,passive,fall,09/23/2020,"sm, km, ei",hotnarko,310603,5804663,10,30318,female,grizzly,2020,Reference
+nt,38579,at05,4,2020at0504,>10,n/a,g,a20,mixed,2020at05,at05,passive,summer,09/14/2020,"kf, ei, rb",line cabin,309306,5806156,10,18192,female,grizzly,2020,Reference
+nt,38580,at05,4,2020at0504,>10,10-Apr,both,a26,br,2020at05,at05,passive,summer,09/14/2020,"kf, ei, rb",line cabin,309306,5806156,10,43416,female,grizzly,2020,Reference
+nt,38583,at05,4,2020at0504,10-Apr,n/a,g,b3,br,2020at05,at05,passive,summer,09/14/2020,"kf, ei, rb",line cabin,309306,5806156,10,30318,female,grizzly,2020,Reference
+nt,38586,at27,5,2020at2705,lots,n/a,g,b4,br,2020at27,at27,passive,summer,09/15/2020,"kf, sm, hw",fisheries pool 1,698531,5806902,9,40134,male,grizzly,2020,Platform_Drift
+nt,38588,at11,7,2020at1107,lots,lots,both,a5,mixed,2020at11,at11,passive,fall,10/02/2020,"kf, sh.m, km",frogwater,305564,5809727,10,38762,female,black,2020,Landbased
+nt,38590,at14,8,2020at1408,>10,n/a,g,b52,bl,2020at14,at14,passive,fall,10/13/2020,"sm, km, ei",atnarko campground,302030,5809949,10,50552,female,grizzly,2020,Landbased
+nt,38592,at06,4,2020at0604,10-Apr,03-Jan,both,a34,mixed,2020at06,at06,passive,summer,09/14/2020,"kf, ei, rb",sheep creek,309242,5807385,10,18237,male,grizzly,2020,Reference
+nt,38593,at06,4,2020at0604,10-Apr,03-Jan,both,a28,mixed,2020at06,at06,passive,summer,09/14/2020,"kf, ei, rb",sheep creek,309242,5807385,10,38593,female,grizzly,2020,Reference
+nt,38594,at08,5,2020at0805,10-Apr,>10,both,b10,br,2020at08,at08,passive,summer,09/18/2020,"ei, sm, hw",63 hole,307991,5808577,10,18192,female,grizzly,2020,Reference
+nt,38596,at14,8,2020at1408,>10,>10,both,a50,br,2020at14,at14,passive,fall,10/13/2020,"sm, km, ei",atnarko campground,302030,5809949,10,38758,female,grizzly,2020,Landbased
+nt,38599,at03,7,2020at0307,03-Jan,>10,both,a17,br,2020at03,at03,passive,fall,10/14/2020,"kf, ei, sm, km",hotnarko,310603,5804663,10,38599,male,grizzly,2020,Reference
+nt,38601,at11,7,2020at1107,>10,n/a,g,a31,br,2020at11,at11,passive,fall,10/02/2020,"kf, sh.m, km",frogwater,305564,5809727,10,22587,female,grizzly,2020,Landbased
+nt,38604,at26,4,2020at2604,>10,03-Jan,both,a18,bl,2020at26,at26,passive,summer,09/04/2020,"kf, sh.m, km",big tweeds,699205,5806203,9,32411,male,black,2020,Platform_Drift
+nt,38605,at25,4,2020at2504,>10,n/a,g,a14,bl,2020at25,at25,passive,summer,09/04/2020,"kf, sh.m, km",little tweeds,699646,5805753,9,32411,male,black,2020,Platform_Drift
+nt,38607,at25,4,2020at2504,03-Jan,10-Apr,both,a8,br,2020at25,at25,passive,summer,09/04/2020,"kf, sh.m, km",little tweeds,699646,5805753,9,38619,female,grizzly,2020,Platform_Drift
+nt,38611,at26,4,2020at2604,>10,03-Jan,both,a17,mixed,2020at26,at26,passive,summer,09/04/2020,"kf, sh.m, km",big tweeds,699205,5806203,9,32411,male,black,2020,Platform_Drift
+nt,38612,at23,5,2020at2305,>10,n/a,g,a18,br,2020at23,at23,passive,summer,09/17/2020,"kf, sm, ei",kettle confluence,701679,5805321,9,18228,female,grizzly,2020,Landbased
+nt,38616,at25,4,2020at2504,10-Apr,10-Apr,both,b12,br,2020at25,at25,passive,summer,09/04/2020,"kf, sh.m, km",little tweeds,699646,5805753,9,38619,female,grizzly,2020,Platform_Drift
+nt,38618,at25,4,2020at2504,lots,lots,both,b7,mixed,2020at25,at25,passive,summer,09/04/2020,"kf, sh.m, km",little tweeds,699646,5805753,9,38619,female,grizzly,2020,Platform_Drift
+nt,38619,at25,4,2020at2504,lots,lots,both,b6,br,2020at25,at25,passive,summer,09/04/2020,"kf, sh.m, km",little tweeds,699646,5805753,9,38619,female,grizzly,2020,Platform_Drift
+nt,38620,at14,5,2020at1405,10-Apr,n/a,g,a41,mixed,2020at14,at14,passive,summer,09/17/2020,"kf, sm, ei",atnarko campground,302030,5809949,10,40051,male,grizzly,2020,Landbased
+nt,38623,at16,5,2020at1605,>10,lots,both,c12,bl,2020at16,at16,passive,summer,09/17/2020,"kf, sm, ei",lost hat,300791,5810438,10,38625,female,black,2020,Landbased
+nt,38625,at16,5,2020at1605,>10,>10,both,a7,bl,2020at16,at16,passive,summer,09/17/2020,"kf, sm, ei",lost hat,300791,5810438,10,38625,female,black,2020,Landbased
+nt,38628,at17,5,2020at1705,10-Apr,n/a,g,b33,bl,2020at17,at17,passive,summer,09/17/2020,"kf, sm, ei",bc wrights,299761,5810352,10,38625,female,black,2020,Landbased
+nt,38631,at01,5,2020at0105,>10,03-Jan,both,a8,br,2020at01,at01,passive,fall,09/23/2020,"sm, km, ei",stillwater forest,311011,5803346,10,40223,male,grizzly,2020,Reference
+nt,38640,at26,6,2020at2606,10-Apr,10-Apr,both,a30,bl,2020at26,at26,passive,fall,09/22/2020,"kf, sh.m, km",big tweeds,699205,5806203,9,38640,male,black,2020,Platform_Drift
+nt,38647,at07,5,2020at0705,>10,>10,both,a52,br,2020at07,at07,passive,summer,09/18/2020,"ei, sm, hw",talus,308323,5808185,10,18192,female,grizzly,2020,Reference
+nt,38650,at03,5,2020at0305,10-Apr,10-Apr,both,a40,br,2020at03,at03,passive,fall,09/23/2020,"sm, km, ei",hotnarko,310603,5804663,10,30318,female,grizzly,2020,Reference
+nt,38652,at24,6,2020at2406,>10,n/a,g,c5,bl,2020at24,at24,passive,fall,09/22/2020,"kf, sh.m, km",belarko,700613,5805780,9,38709,female,grizzly,2020,Platform_Drift
+nt,38655,at05,6,2020at0506,03-Jan,n/a,g,c23,br,2020at05,at05,passive,fall,10/03/2020,"ei, sm, sh.m",line cabin,309306,5806156,10,30318,female,grizzly,2020,Reference
+nt,38656,at05,6,2020at0506,10-Apr,10-Apr,both,c24,mixed,2020at05,at05,passive,fall,10/03/2020,"ei, sm, sh.m",line cabin,309306,5806156,10,30318,female,grizzly,2020,Reference
+nt,38657,at05,6,2020at0506,10-Apr,10-Apr,both,a11,mixed,2020at05,at05,passive,fall,10/03/2020,"ei, sm, sh.m",line cabin,309306,5806156,10,40154,female,grizzly,2020,Reference
+nt,38659,at02,6,2020at0206,10-Apr,lots,both,a6,bl,2020at02,at02,passive,fall,10/03/2020,"ei, sm, sh.m",stillwater falls,310910,5804149,10,38659,male,black,2020,Reference
+nt,38664,at05,6,2020at0506,10-Apr,lots,both,c43,br,2020at05,at05,passive,fall,10/03/2020,"ei, sm, sh.m",line cabin,309306,5806156,10,38664,male,grizzly,2020,Reference
+nt,38665,at03,6,2020at0306,10-Apr,n/a,g,a2,br,2020at03,at03,passive,fall,10/03/2020,"ei, sm, sh.m",hotnarko,310603,5804663,10,30354,female,grizzly,2020,Reference
+nt,38667,at24b,8,2020at24b08,>10,>10,both,a13,br,2020at24b,at24b,passive,fall,10/08/2020,"kf, sh.m, km",belarko 2,700565,5805748,9,40115,male,grizzly,2020,Platform_Drift
+nt,38670,at08,7,2020at0807,lots,lots,both,b9,br,2020at08,at08,passive,fall,10/02/2020,"kf, sh.m, km",63 hole,307991,5808577,10,38664,male,grizzly,2020,Reference
+nt,38681,at05,6,2020at0506,10-Apr,n/a,g,c10,br,2020at05,at05,passive,fall,10/03/2020,"ei, sm, sh.m",line cabin,309306,5806156,10,43434,female,grizzly,2020,Reference
+nt,38682,at25,5,2020at2505,>10,n/a,g,b5,bl,2020at25,at25,passive,summer,09/15/2020,"kf, sm, hw",little tweeds,699646,5805753,9,36133,male,black,2020,Platform_Drift
+nt,38685,at15,7,2020at1507,10-Apr,n/a,g,b30,br,2020at15,at15,passive,fall,10/06/2020,"kf, ei, km",camp creek,301461,5810371,10,38685,female,grizzly,2020,Landbased
+nt,38688,at25,5,2020at2505,>10,n/a,g,a37,bl,2020at25,at25,passive,summer,09/15/2020,"kf, sm, hw",little tweeds,699646,5805753,9,32411,male,black,2020,Platform_Drift
+nt,38689,at25,5,2020at2505,>10,n/a,g,a16,bl,2020at25,at25,passive,summer,09/15/2020,"kf, sm, hw",little tweeds,699646,5805753,9,40157,male,grizzly,2020,Platform_Drift
+nt,38692,at25,5,2020at2505,>10,03-Jan,both,a29,mixed,2020at25,at25,passive,summer,09/15/2020,"kf, sm, hw",little tweeds,699646,5805753,9,50258,female,grizzly,2020,Platform_Drift
+nt,38696,at25,5,2020at2505,>10,n/a,g,b11,bl,2020at25,at25,passive,summer,09/15/2020,"kf, sm, hw",little tweeds,699646,5805753,9,32411,male,black,2020,Platform_Drift
+nt,38702,at31,5,2020at3105,lots,n/a,g,a20,bl,2020at31,at31,passive,summer,09/15/2020,"kf, sm, hw",fisheries pool 3,698469,5806884,9,32411,male,black,2020,Platform_Drift
+nt,38703,at31,5,2020at3105,lots,lots,both,a7,mixed,2020at31,at31,passive,summer,09/15/2020,"kf, sm, hw",fisheries pool 3,698469,5806884,9,41408,female,grizzly,2020,Platform_Drift
+nt,38704,at31,5,2020at3105,10-Apr,>10,both,a2,br,2020at31,at31,passive,summer,09/15/2020,"kf, sm, hw",fisheries pool 3,698469,5806884,9,41473,female,grizzly,2020,Platform_Drift
+nt,38705,at06,5,2020at0605,>10,n/a,g,a9,bl,2020at06,at06,passive,fall,09/23/2020,"sm, km, ei",sheep creek,309242,5807385,10,50364,female,grizzly,2020,Reference
+nt,38707,at06,5,2020at0605,10-Apr,n/a,g,a18,bl,2020at06,at06,passive,fall,09/23/2020,"sm, km, ei",sheep creek,309242,5807385,10,40024,female,grizzly,2020,Reference
+nt,38709,at31,6,2020at3106,>10,>10,both,no data,bl,2020at31,at31,passive,fall,09/22/2020,"kf, sh.m, km",fisheries pool 3,698469,5806884,9,38709,female,grizzly,2020,Platform_Drift
+nt,38715,at26,8,2020at2608,>10,10-Apr,both,a44,bl,2020at26,at26,passive,fall,10/08/2020,"kf, sh.m, km",big tweeds,699205,5806203,9,36517,male,black,2020,Platform_Drift
+nt,38716,at15,10,2020at15010,03-Jan,03-Jan,both,a7,br,2020at15,at15,passive,fall,10/27/2020,"kf, km, is",camp creek,301461,5810371,10,40119,female,grizzly,2020,Landbased
+nt,38719,at19,8,2020at1908,>10,n/a,g,a10,bl,2020at19,at19,passive,fall,10/13/2020,"sm, km, ei",eagle slough,297853,5808918,10,43507,female,black,2020,Landbased
+nt,38725,at06,6,2020at0606,>10,>10,both,a18,br,2020at06,at06,passive,fall,10/03/2020,"ei, sm, sh.m",sheep creek,309242,5807385,10,30318,female,grizzly,2020,Reference
+nt,38726,at06,6,2020at0606,10-Apr,>10,both,a12,br,2020at06,at06,passive,fall,10/03/2020,"ei, sm, sh.m",sheep creek,309242,5807385,10,38811,female,grizzly,2020,Reference
+nt,38729,at06,6,2020at0606,10-Apr,10-Apr,both,a24,br,2020at06,at06,passive,fall,10/03/2020,"ei, sm, sh.m",sheep creek,309242,5807385,10,38811,female,grizzly,2020,Reference
+nt,38740,at03,7,2020at0307,>10,03-Jan,both,a12,mixed,2020at03,at03,passive,fall,10/14/2020,"kf, ei, sm, km",hotnarko,310603,5804663,10,58051,male,grizzly,2020,Reference
+nt,38743,at06,1,2020at0601,>10,03-Jan,both,b17,br,2020at06,at06,passive,summer,08/10/2020,"ei, sm, km, sh.m",sheep creek,309242,5807385,10,38743,male,grizzly,2020,Reference
+nt,38749,at17,4,2020at1704,>10,lots,both,d9,bl,2020at17,at17,passive,summer,09/06/2020,"kf, sm, ei",bc wrights,299761,5810352,10,38625,female,black,2020,Landbased
+nt,38758,at06,5,2020at0605,lots,lots,both,a24,br,2020at06,at06,passive,fall,09/23/2020,"sm, km, ei",sheep creek,309242,5807385,10,38758,female,grizzly,2020,Reference
+nt,38762,at11,7,2020at1107,10-Apr,10-Apr,both,a3,bl,2020at11,at11,passive,fall,10/02/2020,"kf, sh.m, km",frogwater,305564,5809727,10,38762,female,black,2020,Landbased
+nt,38766,at23,3,2020at2303,n/a,10-Apr,u,a14,br,2020at23,at23,passive,summer,08/25/2020,"kf, sm, ei",kettle confluence,701679,5805321,9,18228,female,grizzly,2020,Landbased
+nt,38768,at23,3,2020at2303,10-Apr,n/a,g,a31,bl,2020at23,at23,passive,summer,08/25/2020,"kf, sm, ei",kettle confluence,701679,5805321,9,38768,female,grizzly,2020,Landbased
+nt,38769,at03,3,2020at0303,10-Apr,n/a,g,a18,br,2020at03,at03,passive,summer,08/31/2020,"ei, km, sh.m",hotnarko,310603,5804663,10,50520,male,grizzly,2020,Reference
+nt,38770,at10,8,2020at1008,10-Apr,n/a,g,a10,br,2020at10,at10,passive,fall,10/15/2020,"ei, sm, km, sh.m",billy's cabin,306615,5809252,10,41086,male,grizzly,2020,Landbased
+nt,38774,at05,3,2020at0503,03-Jan,10-Apr,both,b21,bl,2020at05,at05,passive,summer,08/31/2020,"ei, km, sh.m",line cabin,309306,5806156,10,18192,female,grizzly,2020,Reference
+nt,38780,at11,3,2020at1103,lots,n/a,g,a12,bl,2020at11,at11,passive,summer,08/26/2020,"kf, ei, jm",frog water,305564,5809727,10,38743,male,grizzly,2020,Landbased
+nt,38781,at24b,0,2020at24b00,10-Apr,10-Apr,both,a13,mixed,2020at24b,at24b,passive,summer,08/04/2020,"kf, sh.m, km",belarko 2,700565,5805748,9,26558,male,black,2020,Platform_Drift
+nt,38789,at27,5,2020at2705,10-Apr,n/a,g,unknown,bl,2020at27,at27,passive,summer,09/15/2020,"kf, sm, hw",fisheries pool 1,698531,5806902,9,32411,male,black,2020,Platform_Drift
+nt,38791,at03,4,2020at0304,10-Apr,>10,both,a50,bl,2020at03,at03,passive,summer,09/14/2020,"kf, ei, rb",hotnarko,310603,5804663,10,38791,male,grizzly,2020,Reference
+nt,38793,at09,5,2020at0905,03-Jan,lots,both,b26,mixed,2020at09,at09,passive,summer,09/18/2020,"ei, sm, hw",blair's hole,307282,5808947,10,38758,female,grizzly,2020,Reference
+nt,38794,at09,5,2020at0905,lots,lots,both,b17,mixed,2020at09,at09,passive,summer,09/18/2020,"ei, sm, hw",blair's hole,307282,5808947,10,25586,female,grizzly,2020,Reference
+nt,38796,at09,5,2020at0905,lots,10-Apr,both,b15,br,2020at09,at09,passive,summer,09/18/2020,"ei, sm, hw",blair's hole,307282,5808947,10,25586,female,grizzly,2020,Reference
+nt,38800,at16,4,2020at1604,03-Jan,>10,both,c9,bl,2020at16,at16,passive,summer,09/06/2020,"kf, sm, ei",lost hat,300791,5810438,10,18242,female,black,2020,Landbased
+nt,38801,at16,4,2020at1604,lots,>10,both,c8,bl,2020at16,at16,passive,summer,09/06/2020,"kf, sm, ei",lost hat,300791,5810438,10,18242,female,black,2020,Landbased
+nt,38805,at20,4,2020at2004,>10,n/a,g,a52,bl,2020at20,at20,passive,summer,09/06/2020,"kf, sm, ei",fish bone,297408,5807657,10,40087,female,black,2020,Landbased
+nt,38807,at01,4,2020at0104,10-Apr,>10,both,a3,br,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,30318,female,grizzly,2020,Reference
+nt,38811,at01,4,2020at0104,10-Apr,10-Apr,both,a12,mixed,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,38811,female,grizzly,2020,Reference
+nt,38818,at01,5,2020at0105,03-Jan,10-Apr,both,b4,br,2020at01,at01,passive,fall,09/23/2020,"sm, km, ei",stillwater forest,311011,5803346,10,38818,male,grizzly,2020,Reference
+nt,38819,at05,5,2020at0505,03-Jan,>10,both,c9,br,2020at05,at05,passive,fall,09/23/2020,"sm, km, ei",line cabin,309306,5806156,10,38818,male,grizzly,2020,Reference
+nt,38822,at26,8,2020at2608,>10,n/a,g,a40,bl,2020at26,at26,passive,fall,10/08/2020,"kf, sh.m, km",big tweeds,699205,5806203,9,36517,male,black,2020,Platform_Drift
+nt,38831,at01,4,2020at0104,lots,n/a,g,b11,mixed,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,40170,male,grizzly,2020,Reference
+nt,38835,at01,4,2020at0104,lots,03-Jan,both,b19,br,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,40170,male,grizzly,2020,Reference
+nt,38840,at03,4,2020at0304,03-Jan,lots,both,a39,mixed,2020at03,at03,passive,summer,09/14/2020,"kf, ei, rb",hotnarko,310603,5804663,10,22587,female,grizzly,2020,Reference
+nt,38842,at03,4,2020at0304,10-Apr,03-Jan,both,a47,br,2020at03,at03,passive,summer,09/14/2020,"kf, ei, rb",hotnarko,310603,5804663,10,38791,male,grizzly,2020,Reference
+nt,38867,at01,4,2020at0104,10-Apr,>10,both,a30,mixed,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,38811,female,grizzly,2020,Reference
+nt,38870,at01,4,2020at0104,10-Apr,>10,both,a34,mixed,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,38811,female,grizzly,2020,Reference
+nt,38873,at01,4,2020at0104,10-Apr,10-Apr,both,b5,br,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,40170,male,grizzly,2020,Reference
+nt,38874,at01,4,2020at0104,10-Apr,03-Jan,both,b6,mixed,2020at01,at01,passive,summer,09/14/2020,"kf, ei, rb",stillwater forest,311011,5803346,10,40170,male,grizzly,2020,Reference
+nt,38918,at25,9,2020at2509,10-Apr,n/a,g,b8,br,2020at25,at25,passive,fall,10/20/2020,"ei, km, parks",little tweeds,699646,5805753,9,36879,female,grizzly,2020,Platform_Drift
+nt,38919,at25,9,2020at2509,>10,n/a,g,a9,br,2020at25,at25,passive,fall,10/20/2020,"ei, km, parks",little tweeds,699646,5805753,9,43089,male,grizzly,2020,Platform_Drift
+nt,38922,at02,9,2020at0209,10-Apr,03-Jan,both,a21,br,2020at02,at02,passive,fall,10/30/2020,"kf, ei, sm, sh.m",stillwater falls,310910,5804149,10,30354,female,grizzly,2020,Reference
+nt,38925,at19,6,2020at1906,10-Apr,n/a,g,a4,bl,2020at19,at19,passive,fall,09/25/2020,"kf, sh.m, km",eagle slough,297853,5808918,10,34659,female,black,2020,Landbased
+nt,38926,at13,6,2020at1306,>10,>10,both,c4,bl,2020at13,at13,passive,fall,09/25/2020,"kf, sh.m, km",woodcut rd,303035,5810139,10,40032,female,black,2020,Landbased
+nt,38927,at13,6,2020at1306,10-Apr,03-Jan,both,c11,bl,2020at13,at13,passive,fall,09/25/2020,"kf, sh.m, km",woodcut rd,303035,5810139,10,40032,female,black,2020,Landbased
+nt,38934,at08,6,2020at0806,lots,10-Apr,both,b7,br,2020at08,at08,passive,fall,09/24/2020,"kf, sh.m, km",63 hole,307991,5808577,10,30318,female,grizzly,2020,Reference
+nt,38938,at05,7,2020at0507,lots,>10,both,c14,br,2020at05,at05,passive,fall,10/14/2020,"kf, ei, sm, km",line cabin,309306,5806156,10,38938,female,grizzly,2020,Reference
+nt,38939,at05,7,2020at0507,10-Apr,n/a,g,b33,bl,2020at05,at05,passive,fall,10/14/2020,"kf, ei, sm, km",line cabin,309306,5806156,10,50520,male,grizzly,2020,Reference
+nt,38942,at06,7,2020at0607,>10,n/a,g,a28,br,2020at06,at06,passive,fall,10/14/2020,"kf, ei, sm, km",sheep creek,309242,5807385,10,30354,female,grizzly,2020,Reference
+nt,38943,at02,9,2020at0209,>10,lots,both,a13,br,2020at02,at02,passive,fall,10/30/2020,"kf, ei, sm, sh.m",stillwater falls,310910,5804149,10,38818,male,grizzly,2020,Reference
+nt,38951,at25,9,2020at2509,10-Apr,>10,both,a39,mixed,2020at25,at25,passive,fall,10/20/2020,"ei, km, parks",little tweeds,699646,5805753,9,36517,male,black,2020,Platform_Drift
+nt,38956,at05,7,2020at0507,>10,>10,both,a6,br,2020at05,at05,passive,fall,10/14/2020,"kf, ei, sm, km",line cabin,309306,5806156,10,22587,female,grizzly,2020,Reference
+nt,38959,at16,7,2020at1607,>10,10-Apr,both,b6,mixed,2020at16,at16,passive,fall,10/06/2020,"kf, ei, km",lost hat,300791,5810438,10,36879,female,grizzly,2020,Landbased
+nt,38968,at23,6,2020at2306,>10,n/a,g,a14,mixed,2020at23,at23,passive,fall,09/26/2020,"kf, ei, sm, km",kettle confluence,701679,5805321,9,38968,female,grizzly,2020,Landbased
+nt,38976,at03,6,2020at0306,lots,n/a,g,a13,br,2020at03,at03,passive,fall,10/03/2020,"ei, sm, sh.m",hotnarko,310603,5804663,10,38818,male,grizzly,2020,Reference
+nt,38978,at25,7,2020at2507,>10,n/a,g,b11,br,2020at25,at25,passive,fall,09/29/2020,"km, sh.m, sm",little tweeds,699646,5805753,9,40109,female,grizzly,2020,Platform_Drift
+nt,38991,at10,8,2020at1008,10-Apr,n/a,g,a41,br,2020at10,at10,passive,fall,10/15/2020,"ei, sm, km, sh.m",billy's cabin,306615,5809252,10,40119,female,grizzly,2020,Landbased
+nt,38992,at11,8,2020at1108,>10,>10,both,a10,br,2020at11,at11,passive,fall,10/15/2020,"ei, sm, km, sh.m",frogwater,305564,5809727,10,38599,male,grizzly,2020,Landbased
+nt,38993,at25,9,2020at2509,10-Apr,n/a,g,b4,br,2020at25,at25,passive,fall,10/20/2020,"ei, km, parks",little tweeds,699646,5805753,9,36879,female,grizzly,2020,Platform_Drift
+nt,38994,at05,7,2020at0507,10-Apr,n/a,g,b34,bl,2020at05,at05,passive,fall,10/14/2020,"kf, ei, sm, km",line cabin,309306,5806156,10,50520,male,grizzly,2020,Reference
+nt,40003,at15,8,2019at1508,10-Apr,,g,a10,br,2019at15,at15,passive,fall,09/23/2019,"kf, as",camp creek,301453,5810381,10,22587,female,grizzly,2019,Landbased
+nt,40011,at24,9,2019at2409,10-Apr,10-Apr,both,b4,br,2019at24,at24,passive,fall,10/08/2019,"kf, as, km",belarko south side,700604,5805764,9,40108,female,grizzly,2019,Platform_Drift
+nt,40012,at19,9,2019at1909,>10,>10,both,a6,bl,2019at19,at19,passive,fall,09/26/2019,"kf, as",eagle slough,297868,5808926,10,40012,male,black,2019,Landbased
+nt,40015,at17,9,2019at1709,>10,lots,both,b34,bl,2019at17,at17,passive,fall,09/26/2019,"as, kf",bc wrights,299622,5810216,10,40032,female,black,2019,Landbased
+nt,40016,at17,9,2019at1709,>10,>10,both,b30,bl,2019at17,at17,passive,fall,09/26/2019,"as, kf",bc wrights,299622,5810216,10,40032,female,black,2019,Landbased
+nt,40020,at05,8,2019at0508,>10,>10,both,b21,bl,2019at05,at05,passive,fall,09/22/2019,"as, kf",line cabin,309302,5806163,10,40020,female,grizzly,2019,Reference
+nt,40023,at08,8,2019at0808,lots,lots,both,a16,mixed,2019at08,at08,passive,fall,09/25/2019,"bw, de, ta, km",63 hole,307975,5808563,10,40086,female,grizzly,2019,Reference
+nt,40024,at09,8,2019at0908,>10,,g,a9,bl,2019at09,at09,passive,fall,09/25/2019,"bw, de, ta, km",blair's hole,307603,5808688,10,40024,female,grizzly,2019,Reference
+nt,40026,at17,9,2019at1709,10-Apr,>10,both,b27,br,2019at17,at17,passive,fall,09/26/2019,"as, kf",bc wrights,299622,5810216,10,40032,female,black,2019,Landbased
+nt,40029,at17,9,2019at1709,10-Apr,03-Jan,both,b18,bl,2019at17,at17,passive,fall,09/26/2019,"as, kf",bc wrights,299622,5810216,10,40032,female,black,2019,Landbased
+nt,40031,at02,9,2019at0209,lots,lots,both,ground a22,mixed,2019at02,at02,passive,fall,10/01/2019,"as, kf, km",stillwater falls,310913,5804151,10,43434,female,grizzly,2019,Reference
+nt,40032,at15,10,2019at1510,>10,>10,both,b8,bl,2019at15,at15,passive,fall,10/08/2019,"kf, as, km",camp creek,301453,5810381,10,40032,female,black,2019,Landbased
+nt,40034,at24,7,2019at2407,10-Apr,10-Apr,both,a4,br,2019at24,at24,passive,summer,09/17/2019,"kf, km, as",belarko south side,700604,5805764,9,43089,male,grizzly,2019,Platform_Drift
+nt,40035,at09,8,2019at0908,>10,>10,both,b16,mixed,2019at09,at09,passive,fall,09/25/2019,"bw, de, ta, km",blair's hole,307603,5808688,10,40035,male,grizzly,2019,Reference
+nt,40036,at25,8,2019at2508,10-Apr,lots,both,a19,bl,2019at25,at25,passive,fall,09/27/2019,"as, kf, km",little tweedsmuir,699677,5805811,9,22477,male,black,2019,Platform_Drift
+nt,40039,at14,9,2019at1409,10-Apr,10-Apr,both,a48,bl,2019at14,at14,passive,fall,09/26/2019,"kf, as",atnarko campground beach,302041,5809940,10,43471,female,grizzly,2019,Landbased
+nt,40051,at02,7,2019at0207,10-Apr,,g,a30,br,2019at02,at02,passive,summer,09/14/2019,"kf, as",stillwater falls,310913,5804151,10,40051,male,grizzly,2019,Reference
+nt,40055,at06,7,2019at0607,10-Apr,10-Apr,both,a30,br,2019at06,at06,passive,summer,09/14/2019,"kf, as",sheep creek,309246,5807378,10,40119,female,grizzly,2019,Reference
+nt,40066,at19,10,2019at1910,10-Apr,10-Apr,both,a43,bl,2019at19,at19,passive,fall,10/08/2019,"kf, as, km",eagle slough,297868,5808926,10,40066,female,black,2019,Landbased
+nt,40070,at23,8,2019at2308,>10,,g,a55,br,2019at23,at23,passive,fall,09/19/2019,"kf, lh",kettle confluence,701627,5805155,9,43089,male,grizzly,2019,Landbased
+nt,40075,at17,10,2019at1710,>10,>10,both,c25,br,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,50552,female,grizzly,2019,Landbased
+nt,40076,at17,10,2019at1710,>10,>10,both,c3,br,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,40154,female,grizzly,2019,Landbased
+nt,40077,at02,9,2019at0209,>10,>10,both,a9,br,2019at02,at02,passive,fall,10/01/2019,"as, kf, km",stillwater falls,310913,5804151,10,57176,female,grizzly,2019,Reference
+nt,40078,at16,8,2019at1608,10-Apr,,g,a6,br,2019at16,at16,passive,summer,09/18/2019,"as, kf",lost hat,300787,5810425,10,36346,male,grizzly,2019,Landbased
+nt,40086,at02,8,2019at0208,>10,10-Apr,both,a2,br,2019at02,at02,passive,fall,09/20/2019,"kf, as",stillwater falls,310913,5804151,10,40086,female,grizzly,2019,Reference
+nt,40087,at21,8,2019at2108,>10,>10,both,c16,bl,2019at21,at21,passive,fall,09/21/2019,"as, kf",cub cry,296573,5806559,10,40087,female,black,2019,Landbased
+nt,40090,at23,9,2019at2309,10-Apr,,g,a38,br,2019at23,at23,passive,fall,09/26/2019,"kf, as",kettle confluence,701627,5805155,9,40090,female,grizzly,2019,Landbased
+nt,40094,at17,10,2019at1710,>10,>10,both,b47,bl,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,40032,female,black,2019,Landbased
+nt,40101,at25,7,2019at2507,>10,03-Jan,both,b47,mixed,2019at25,at25,passive,summer,09/17/2019,"kf, km, as",little tweedsmuir,699677,5805811,9,40221,female,grizzly,2019,Platform_Drift
+nt,40108,at25,7,2019at2507,>10,10-Apr,both,b8,mixed,2019at25,at25,passive,summer,09/17/2019,"kf, km, as",little tweedsmuir,699677,5805811,9,40108,female,grizzly,2019,Platform_Drift
+nt,40109,at25,7,2019at2507,10-Apr,,g,b9,br,2019at25,at25,passive,summer,09/17/2019,"kf, km, as",little tweedsmuir,699677,5805811,9,40109,female,grizzly,2019,Platform_Drift
+nt,40114,at28,9,2019at2809,10-Apr,10-Apr,both,a27,br,2019at28,at28,passive,fall,10/07/2019,"as, kf, km",sockeye island,306979,5809332,10,43348,female,grizzly,2019,Landbased
+nt,40115,at26,9,2019at2609,10-Apr,03-Jan,both,a38,br,2019at26,at26,passive,fall,10/08/2019,"kf, as, km",big tweedsmuir,699240,5806240,9,40115,male,grizzly,2019,Platform_Drift
+nt,40116,at01,7,2019at0107,10-Apr,,g,b5,bl,2019at01,at01,passive,summer,09/14/2019,"kf, as",stillwater forest,311025,5803339,10,32294,female,grizzly,2019,Reference
+nt,40117,at03,7,2019at0307,>10,>10,both,b6,br,2019at03,at03,passive,summer,09/14/2019,"kf, as",hotnarko mouth,310595,5804687,10,40086,female,grizzly,2019,Reference
+nt,40118,at01,7,2019at0107,10-Apr,10-Apr,both,a36,mixed,2019at01,at01,passive,summer,09/14/2019,"kf, as",stillwater forest,311025,5803339,10,30354,female,grizzly,2019,Reference
+nt,40119,at01,7,2019at0107,>10,10-Apr,both,a13,br,2019at01,at01,passive,summer,09/14/2019,"kf, as",stillwater forest,311025,5803339,10,40119,female,grizzly,2019,Reference
+nt,40125,at02,7,2019at0207,10-Apr,,g,a3,br,2019at02,at02,passive,summer,09/14/2019,"kf, as",stillwater falls,310913,5804151,10,40119,female,grizzly,2019,Reference
+nt,40126,at02,7,2019at0207,10-Apr,03-Jan,both,a10,br,2019at02,at02,passive,summer,09/14/2019,"kf, as",stillwater falls,310913,5804151,10,50552,female,grizzly,2019,Reference
+nt,40130,at05,7,2019at0507,10-Apr,,g,b38,bl,2019at05,at05,passive,summer,09/14/2019,"kf, as",line cabin,309302,5806163,10,22587,female,grizzly,2019,Reference
+nt,40132,at05,7,2019at0507,10-Apr,10-Apr,both,a21,br,2019at05,at05,passive,summer,09/14/2019,"kf, as",line cabin,309302,5806163,10,40132,male,grizzly,2019,Reference
+nt,40133,at11,8,2019at1108,lots,,g,a22,bl,2019at11,at11,passive,fall,09/25/2019,"bw, de, ta, km",frog water,305595,5809726,10,22587,female,grizzly,2019,Landbased
+nt,40134,at24,7,2019at2407,10-Apr,>10,both,c4,bl,2019at24,at24,passive,summer,09/17/2019,"kf, km, as",belarko south side,700604,5805764,9,40134,male,grizzly,2019,Platform_Drift
+nt,40137,at18,9,2019at1809,>10,>10,both,a6,br,2019at18,at18,passive,fall,09/26/2019,"as, kf",mosher,298849,5809590,10,43089,male,grizzly,2019,Landbased
+nt,40144,at18,9,2019at1809,>10,,g,a20,br,2019at18,at18,passive,fall,09/26/2019,"as, kf",mosher,298849,5809590,10,36879,female,grizzly,2019,Landbased
+nt,40153,at17,10,2019at1710,10-Apr,10-Apr,both,b46,br,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,40032,female,black,2019,Landbased
+nt,40154,at17,10,2019at1710,10-Apr,>10,both,b53,br,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,40154,female,grizzly,2019,Landbased
+nt,40155,at17,10,2019at1710,10-Apr,>10,both,b54,bl,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,40154,female,grizzly,2019,Landbased
+nt,40156,at16,10,2019at1610,10-Apr,,g,a21,mixed,2019at16,at16,passive,fall,10/08/2019,"kf, as, km",lost hat,300787,5810425,10,36879,female,grizzly,2019,Landbased
+nt,40157,at16,10,2019at1610,>10,>10,both,b19,br,2019at16,at16,passive,fall,10/08/2019,"kf, as, km",lost hat,300787,5810425,10,40157,male,grizzly,2019,Landbased
+nt,40166,at15,9,2019at1509,10-Apr,03-Jan,both,a22,br,2019at15,at15,passive,fall,09/30/2019,"as, km",camp creek,301453,5810381,10,36879,female,grizzly,2019,Landbased
+nt,40170,at05,9,2019at0509,10-Apr,10-Apr,both,c16,br,2019at05,at05,passive,fall,10/01/2019,"kf, as, km",line cabin,309302,5806163,10,40170,male,grizzly,2019,Reference
+nt,40174,at25,9,2019at2509,>10,03-Jan,both,a63,bl,2019at25,at25,passive,fall,10/08/2019,"kf, as, km",little tweedsmuir,699677,5805811,9,36523,female,black,2019,Platform_Drift
+nt,40176,at17,10,2019at1710,10-Apr,10-Apr,both,b7,mixed,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,40119,female,grizzly,2019,Landbased
+nt,40177,at22,10,2019at2210,10-Apr,>10,both,b32,mixed,2019at22,at22,passive,fall,10/08/2019,"kf, as, km",trolley northside,703795,5805229,9,40183,male,grizzly,2019,Landbased
+nt,40183,at21,9,2019at2109,10-Apr,>10,both,a25,br,2019at21,at21,passive,fall,09/26/2019,"kf, as",cub cry,296573,5806559,10,40183,male,grizzly,2019,Landbased
+nt,40187,at20,10,2019at2010,lots,lots,both,a75,br,2019at20,at20,passive,fall,10/08/2019,"kf, as, km",fish bone,297417,5807661,10,43089,male,grizzly,2019,Landbased
+nt,40188,at16,10,2019at1610,10-Apr,>10,both,b10,br,2019at16,at16,passive,fall,10/08/2019,"kf, as, km",lost hat,300787,5810425,10,50552,female,grizzly,2019,Landbased
+nt,40193,at18,9,2019at1809,>10,>10,both,a11,br,2019at18,at18,passive,fall,09/26/2019,"as, kf",mosher,298849,5809590,10,43089,male,grizzly,2019,Landbased
+nt,40201,at06,9,2019at0609,>10,>10,both,a30,bl,2019at06,at06,passive,fall,10/01/2019,"as, kf, km",sheep creek,309246,5807378,10,40201,male,grizzly,2019,Reference
+nt,40205,at02,9,2019at0209,10-Apr,10-Apr,both,a21,bl,2019at02,at02,passive,fall,10/01/2019,"as, kf, km",stillwater falls,310913,5804151,10,43434,female,grizzly,2019,Reference
+nt,40206,at03,9,2019at0309,10-Apr,03-Jan,both,a8,br,2019at03,at03,passive,fall,10/01/2019,"kf, km, as",hotnarko mouth,310595,5804687,10,57176,female,grizzly,2019,Reference
+nt,40207,at05,9,2019at0509,10-Apr,10-Apr,both,b39,bl,2019at05,at05,passive,fall,10/01/2019,"kf, as, km",line cabin,309302,5806163,10,58545,male,grizzly,2019,Reference
+nt,40218,at21,10,2019at2110,10-Apr,10-Apr,both,b21,br,2019at21,at21,passive,fall,10/08/2019,"kf, as, km",cub cry,296573,5806559,10,43089,male,grizzly,2019,Landbased
+nt,40219,at17,10,2019at1710,lots,lots,both,a12,mixed,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,36346,male,grizzly,2019,Landbased
+nt,40221,at23,10,2019at2310,03-Jan,10-Apr,both,a1,br,2019at23,at23,passive,fall,10/01/2019,"kf, as, lh",kettle confluence,701627,5805155,9,40221,female,grizzly,2019,Landbased
+nt,40223,at03,9,2019at0309,>10,>10,both,a13,bl,2019at03,at03,passive,fall,10/01/2019,"kf, km, as",hotnarko mouth,310595,5804687,10,40223,male,grizzly,2019,Reference
+nt,40227,at15,9,2019at1509,10-Apr,10-Apr,both,b19,br,2019at15,at15,passive,fall,09/30/2019,"as, km",camp creek,301453,5810381,10,36879,female,grizzly,2019,Landbased
+nt,41033,at03,7,2021at0307,10-Apr,10-Apr,both,a23,bl,2021at03,at03,passive,summer,10/06/2021,"kf, rs, ei",hotnarko,310622,5804721,10,26612,male,black,2021,Reference
+nt,41037,at02,7,2021at0207,>10,n/a,g,a17,br,2021at02,at02,passive,summer,10/06/2021,"kf, rs, ei",stillwater falls,310909,5804144,10,41455,female,grizzly,2021,Reference
+nt,41038,at02,7,2021at0207,10-Apr,n/a,g,a8,br,2021at02,at02,passive,summer,10/06/2021,"kf, rs, ei",stillwater falls,310909,5804144,10,50552,female,grizzly,2021,Reference
+nt,41041,at26b,9,2021at26b09,10-Apr,>10,both,a17,mixed,2021at26b,at26b,passive,summer,10/07/2021,"sm, kf, rs",big tweeds 2,699250,5806200,9,41041,female,grizzly,2021,Platform_Drift
+nt,41043,at08,9,2021at0809,03-Jan,>10,both,b10,br,2021at08,at08,passive,summer,10/19/2021,"sm, kf, rs",63 hole,307971,5808566,10,41043,male,grizzly,2021,Reference
+nt,41047,at08,9,2020at0809,>10,n/a,g,b10,bl,2020at08,at08,passive,fall,11/03/2020,"kf, km, sh.m",63 hole,307991,5808577,10,38593,female,grizzly,2020,Reference
+nt,41048,at08,9,2020at0809,>10,>10,both,a14,br,2020at08,at08,passive,fall,11/03/2020,"kf, km, sh.m",63 hole,307991,5808577,10,38758,female,grizzly,2020,Reference
+nt,41050,at08,9,2020at0809,>10,n/a,g,a6,br,2020at08,at08,passive,fall,11/03/2020,"kf, km, sh.m",63 hole,307991,5808577,10,41050,male,grizzly,2020,Reference
+nt,41056,at06,9,2020at0609,>10,>10,both,a3,br,2020at06,at06,passive,fall,10/30/2020,"kf, ei, sm, sh.m",sheep creek,309242,5807385,10,40119,female,grizzly,2020,Reference
+nt,41064,at24b,6,2020at24b06,10-Apr,03-Jan,both,a17,bl,2020at24b,at24b,passive,fall,09/22/2020,"kf, sh.m, km",belarko 2,700565,5805748,9,40134,male,grizzly,2020,Platform_Drift
+nt,41068,at05,5,2020at0505,10-Apr,n/a,g,b34,br,2020at05,at05,passive,fall,09/23/2020,"sm, km, ei",line cabin,309306,5806156,10,30354,female,grizzly,2020,Reference
+nt,41083,at16,2,2020at1602,lots,lots,both,b8,br,2020at16,at16,passive,summer,08/17/2020,"kf, sh.m, km, seas",lost hat,300791,5810438,10,36879,female,grizzly,2020,Landbased
+nt,41085,at22,8,2020at2208,10-Apr,n/a,g,b26,br,2020at22,at22,passive,fall,10/14/2020,"kf, sm, ei",trolley,297346,5806747,10,36879,female,grizzly,2020,Landbased
+nt,41086,at01,3,2020at0103,n/a,10-Apr,u,c6,br,2020at01,at01,passive,summer,08/31/2020,"ei, km, sh.m",stillwater forest,311011,5803346,10,41086,male,grizzly,2020,Reference
+nt,41088,at02,9,2021at0209,>10,>10,both,a16,br,2021at02,at02,passive,summer,10/21/2021,"kf, rs, ei",stillwater falls,310909,5804144,10,40119,female,grizzly,2021,Reference
+nt,41098,at24,9,2021at2409,10-Apr,10-Apr,both,b32,bl,2021at24,at24,passive,summer,10/07/2021,"sm, kf, rs",belarko,700609,5805750,9,41098,male,grizzly,2021,Platform_Drift
+nt,41100,at09,9,2021at0909,10-Apr,lots,both,a6,br,2021at09,at09,passive,summer,10/19/2021,"sm, kf, rs",blair's hole,307593,5808684,10,41043,male,grizzly,2021,Reference
+nt,41103,at09,9,2021at0909,lots,lots,both,a13,br,2021at09,at09,passive,summer,10/19/2021,"sm, kf, rs",blair's hole,307593,5808684,10,18597,male,grizzly,2021,Reference
+nt,41113,at24b,10,2021at24b10,lots,n/a,g,b35,bl,2021at24b,at24b,passive,summer,10/15/2021,"kf, sm, rs",belarko 2,700555,5805746,9,41113,female,grizzly,2021,Platform_Drift
+nt,41115,at27,10,2021at2710,10-Apr,10-Apr,both,d5,mixed,2021at27,at27,passive,summer,10/15/2021,"kf, sm, rs",fisheries pool,698523,5806884,9,41113,female,grizzly,2021,Platform_Drift
+nt,41132,at09,8,2021at0908,>10,>10,both,a7,br,2021at09,at09,passive,summer,10/08/2021,"sm, ei, rs",blair's hole,307593,5808684,10,18427,female,grizzly,2021,Reference
+nt,41212,at08,9,2020at0809,>10,03-Jan,both,b8,mixed,2020at08,at08,passive,fall,11/03/2020,"kf, km, sh.m",63 hole,307991,5808577,10,38593,female,grizzly,2020,Reference
+nt,41224,at02,8,2020at0208,>10,n/a,g,a17,br,2020at02,at02,passive,fall,10/22/2020,"sm, ei, parks",stillwater falls,310910,5804149,10,41231,male,grizzly,2020,Reference
+nt,41226,at03,8,2020at0308,>10,n/a,g,a6,br,2020at03,at03,passive,fall,10/22/2020,"sm, ei, parks",hotnarko,310603,5804663,10,30354,female,grizzly,2020,Reference
+nt,41231,at03,8,2020at0308,10-Apr,03-Jan,both,a17,br,2020at03,at03,passive,fall,10/22/2020,"sm, ei, parks",hotnarko,310603,5804663,10,41231,male,grizzly,2020,Reference
+nt,41246,at08,8,2020at0808,10-Apr,10-Apr,both,b18,mixed,2020at08,at08,passive,fall,10/15/2020,"ei, sm, km, sh.m",63 hole,307991,5808577,10,40154,female,grizzly,2020,Reference
+nt,41251,at08,8,2020at0808,>10,n/a,g,b9,mixed,2020at08,at08,passive,fall,10/15/2020,"ei, sm, km, sh.m",63 hole,307991,5808577,10,40086,female,grizzly,2020,Reference
+nt,41254,at09,8,2020at0908,10-Apr,n/a,g,b26,mixed,2020at09,at09,passive,fall,10/15/2020,"ei, sm, km, sh.m",blair's hole,307282,5808947,10,43440,female,grizzly,2020,Reference
+nt,41255,at10,8,2020at1008,10-Apr,n/a,g,a7,bl,2020at10,at10,passive,fall,10/15/2020,"ei, sm, km, sh.m",billy's cabin,306615,5809252,10,41086,male,grizzly,2020,Landbased
+nt,41257,at09,8,2020at0908,10-Apr,lots,both,a38,br,2020at09,at09,passive,fall,10/15/2020,"ei, sm, km, sh.m",blair's hole,307282,5808947,10,22587,female,grizzly,2020,Reference
+nt,41264,at08,8,2020at0808,lots,lots,both,a9,mixed,2020at08,at08,passive,fall,10/15/2020,"ei, sm, km, sh.m",63 hole,307991,5808577,10,18192,female,grizzly,2020,Reference
+nt,41269,at11,8,2020at1108,>10,10-Apr,both,a26,mixed,2020at11,at11,passive,fall,10/15/2020,"ei, sm, km, sh.m",frogwater,305564,5809727,10,40024,female,grizzly,2020,Landbased
+nt,41275,at15,9,2020at1509,>10,10-Apr,both,a7,mixed,2020at15,at15,passive,fall,10/21/2020,"sm, km, parks",camp creek,301461,5810371,10,41275,female,grizzly,2020,Landbased
+nt,41276,at15,9,2020at1509,>10,10-Apr,both,a8,br,2020at15,at15,passive,fall,10/21/2020,"sm, km, parks",camp creek,301461,5810371,10,41275,female,grizzly,2020,Landbased
+nt,41278,at02,8,2020at0208,10-Apr,lots,both,a7,br,2020at02,at02,passive,fall,10/22/2020,"sm, ei, parks",stillwater falls,310910,5804149,10,38818,male,grizzly,2020,Reference
+nt,41279,at02,8,2020at0208,lots,10-Apr,both,a14,br,2020at02,at02,passive,fall,10/22/2020,"sm, ei, parks",stillwater falls,310910,5804149,10,41231,male,grizzly,2020,Reference
+nt,41282,at26,9,2020at2609,10-Apr,>10,both,a37,mixed,2020at26,at26,passive,fall,10/20/2020,"ei, km, parks",big tweeds,699205,5806203,9,36517,male,black,2020,Platform_Drift
+nt,41284,at17,10,2020at17010,>10,n/a,g,a14,bl,2020at17,at17,passive,fall,10/27/2020,"kf, km, is",bc wrights,299761,5810352,10,49914,female,grizzly,2020,Landbased
+nt,41293,at03,7,2020at0307,>10,n/a,g,a4,br,2020at03,at03,passive,fall,10/14/2020,"kf, ei, sm, km",hotnarko,310603,5804663,10,58051,male,grizzly,2020,Reference
+nt,41301,at05,6,2020at0506,lots,10-Apr,both,c18,br,2020at05,at05,passive,fall,10/03/2020,"ei, sm, sh.m",line cabin,309306,5806156,10,41301,female,grizzly,2020,Reference
+nt,41309,at14,7,2020at1407,>10,n/a,g,a22,mixed,2020at14,at14,passive,fall,10/06/2020,"kf, ei, km",atnarko campground,302030,5809949,10,43434,female,grizzly,2020,Landbased
+nt,41314,at21b,7,2020at21b07,10-Apr,n/a,g,a4,br,2020at21b,at21b,passive,fall,10/06/2020,"kf, ei, km",cub bawl 2,296503,5806416,10,49988,female,grizzly,2020,Landbased
+nt,41322,at02,12,2019at0212,>10,>10,both,a20,br,2019at02,at02,passive,fall,11/03/2019,"as, kf, js",stillwater falls,310913,5804151,10,41322,male,grizzly,2019,Reference
+nt,41371,at10,11,2019at1011,10-Apr,,g,a15,bl,2019at10,at10,passive,fall,10/28/2019,"kf, as, km",billy's cabin,306611,5809269,10,43332,female,grizzly,2019,Landbased
+nt,41386,at15,12,2019at1512,10-Apr,>10,both,a6,mixed,2019at15,at15,passive,fall,11/01/2019,"as, kf, km",camp creek,301453,5810381,10,40051,male,grizzly,2019,Landbased
+nt,41392,at09,8,2019at0908,>10,>10,both,b23,br,2019at09,at09,passive,fall,09/25/2019,"bw, de, ta, km",blair's hole,307603,5808688,10,30344,female,grizzly,2019,Reference
+nt,41393,at09,8,2019at0908,>10,,g,b20,bl,2019at09,at09,passive,fall,09/25/2019,"bw, de, ta, km",blair's hole,307603,5808688,10,41393,male,grizzly,2019,Reference
+nt,41396,at10,7,2019at1007,>10,>10,both,a31,br,2019at10,at10,passive,summer,09/16/2019,"as, qh",billy's cabin,306611,5809269,10,41396,female,grizzly,2019,Landbased
+nt,41403,at26,7,2019at2607,10-Apr,,g,a34,bl,2019at26,at26,passive,summer,09/17/2019,"kf, km, as",big tweedsmuir,699240,5806240,9,40109,female,grizzly,2019,Platform_Drift
+nt,41405,at18,8,2019at1808,lots,lots,both,a5,br,2019at18,at18,passive,fall,09/21/2019,"as, kf",mosher,298849,5809590,10,40119,female,grizzly,2019,Landbased
+nt,41407,at17,8,2019at1708,10-Apr,10-Apr,both,c8,mixed,2019at17,at17,passive,summer,09/18/2019,"as, kf",bc wrights,299622,5810216,10,50552,female,grizzly,2019,Landbased
+nt,41408,at27,7,2019at2707,>10,>10,both,a5,bl,2019at27,at27,passive,summer,09/17/2019,"kf, km, as",fisheries pool,698505,5806929,9,41408,female,grizzly,2019,Platform_Drift
+nt,41409,at14,8,2019at1408,10-Apr,lots,both,coil 3 o'clock,br,2019at14,at14,passive,summer,09/18/2019,"as, kf",atnarko campground beach,302041,5809940,10,50552,female,grizzly,2019,Landbased
+nt,41412,at15,8,2019at1508,10-Apr,03-Jan,both,b32,br,2019at15,at15,passive,fall,09/23/2019,"kf, as",camp creek,301453,5810381,10,36879,female,grizzly,2019,Landbased
+nt,41416,at15,8,2019at1508,>10,,g,b28,br,2019at15,at15,passive,fall,09/23/2019,"kf, as",camp creek,301453,5810381,10,36879,female,grizzly,2019,Landbased
+nt,41417,at07,8,2019at0708,>10,03-Jan,both,a12,br,2019at07,at07,passive,fall,09/25/2019,"bw, de, ta, km",talus slide,308326,5808239,10,30354,female,grizzly,2019,Reference
+nt,41423,at08,8,2019at0808,10-Apr,03-Jan,both,a15,br,2019at08,at08,passive,fall,09/25/2019,"bw, de, ta, km",63 hole,307975,5808563,10,40086,female,grizzly,2019,Reference
+nt,41433,at22,10,2019at2210,10-Apr,10-Apr,both,b28,mixed,2019at22,at22,passive,fall,10/08/2019,"kf, as, km",trolley northside,703795,5805229,9,41434,female,grizzly,2019,Landbased
+nt,41434,at15,11,2019at1511,lots,lots,both,a23,mixed,2019at15,at15,passive,fall,10/22/2019,"kf, as, km",camp creek,301453,5810381,10,41434,female,grizzly,2019,Landbased
+nt,41440,at06,8,2019at0608,10-Apr,>10,both,a10,br,2019at06,at06,passive,fall,09/22/2019,"as, kf",sheep creek,309246,5807378,10,30354,female,grizzly,2019,Reference
+nt,41444,at16,11,2019at1611,10-Apr,10-Apr,both,b30,mixed,2019at16,at16,passive,fall,10/22/2019,"kf, as, km",lost hat,300787,5810425,10,41444,male,grizzly,2019,Landbased
+nt,41446,at13,11,2019at1311,>10,>10,both,c13,mixed,2019at13,at13,passive,fall,10/22/2019,"kf, as, km",wood cut road,304271,5810444,10,41322,male,grizzly,2019,Landbased
+nt,41447,at09,8,2019at0908,10-Apr,,g,a10,mixed,2019at09,at09,passive,fall,09/25/2019,"bw, de, ta, km",blair's hole,307603,5808688,10,40024,female,grizzly,2019,Reference
+nt,41448,at05,8,2019at0508,>10,,g,a25,mixed,2019at05,at05,passive,fall,09/22/2019,"as, kf",line cabin,309302,5806163,10,30354,female,grizzly,2019,Reference
+nt,41450,at08,8,2019at0808,lots,,g,a7,bl,2019at08,at08,passive,fall,09/25/2019,"bw, de, ta, km",63 hole,307975,5808563,10,30383,female,grizzly,2019,Reference
+nt,41452,at08,8,2019at0808,>10,,g,b6,bl,2019at08,at08,passive,fall,09/25/2019,"bw, de, ta, km",63 hole,307975,5808563,10,30383,female,grizzly,2019,Reference
+nt,41453,at05,8,2019at0508,10-Apr,10-Apr,both,a16,bl,2019at05,at05,passive,fall,09/22/2019,"as, kf",line cabin,309302,5806163,10,41453,male,black,2019,Reference
+nt,41455,at05,8,2019at0508,10-Apr,>10,both,a12,br,2019at05,at05,passive,fall,09/22/2019,"as, kf",line cabin,309302,5806163,10,41455,female,grizzly,2019,Reference
+nt,41459,at05,8,2019at0508,>10,>10,both,a3,br,2019at05,at05,passive,fall,09/22/2019,"as, kf",line cabin,309302,5806163,10,41455,female,grizzly,2019,Reference
+nt,41471,at08,7,2019at0807,,10-Apr,u,a28,br,2019at08,at08,passive,summer,09/16/2019,"as, qh",63 hole,307975,5808563,10,32294,female,grizzly,2019,Reference
+nt,41472,at08,7,2019at0807,>10,>10,both,coil line,br,2019at08,at08,passive,summer,09/16/2019,"as, qh",63 hole,307975,5808563,10,41472,female,grizzly,2019,Reference
+nt,41473,at25,8,2019at2508,10-Apr,10-Apr,both,b38,br,2019at25,at25,passive,fall,09/27/2019,"as, kf, km",little tweedsmuir,699677,5805811,9,41473,female,grizzly,2019,Platform_Drift
+nt,41474,at25,8,2019at2508,>10,>10,both,b10,bl,2019at25,at25,passive,fall,09/27/2019,"as, kf, km",little tweedsmuir,699677,5805811,9,22477,male,black,2019,Platform_Drift
+nt,41477,at25,8,2019at2508,10-Apr,10-Apr,both,b13,bl,2019at25,at25,passive,fall,09/27/2019,"as, kf, km",little tweedsmuir,699677,5805811,9,22477,male,black,2019,Platform_Drift
+nt,41478,at25,8,2019at2508,,>10,u,b14,br,2019at25,at25,passive,fall,09/27/2019,"as, kf, km",little tweedsmuir,699677,5805811,9,41478,male,grizzly,2019,Platform_Drift
+nt,41481,at09,7,2019at0907,lots,lots,both,a6,br,2019at09,at09,passive,summer,09/16/2019,"as, qh",blair's hole,307603,5808688,10,50364,female,grizzly,2019,Reference
+nt,41482,at11,7,2019at1107,>10,,g,a3,br,2019at11,at11,passive,summer,09/16/2019,"as, qh",frog water,305595,5809726,10,40024,female,grizzly,2019,Landbased
+nt,41483,at09,7,2019at0907,>10,>10,both,b24,bl,2019at09,at09,passive,summer,09/16/2019,"as, qh",blair's hole,307603,5808688,10,50364,female,grizzly,2019,Reference
+nt,41485,at10,7,2019at1007,10-Apr,10-Apr,both,a34,br,2019at10,at10,passive,summer,09/16/2019,"as, qh",billy's cabin,306611,5809269,10,41396,female,grizzly,2019,Landbased
+nt,41498,at26,9,2019at2609,>10,>10,both,a39,bl,2019at26,at26,passive,fall,10/08/2019,"kf, as, km",big tweedsmuir,699240,5806240,9,36133,male,black,2019,Platform_Drift
+nt,41501,at29,7,2019at2907,>10,>10,both,b12,mixed,2019at29,at29,passive,summer,09/17/2019,"kf, km, as",fisheries pool 2,698609,5806891,9,41505,female,grizzly,2019,Platform_Drift
+nt,41505,at25,7,2019at2507,10-Apr,10-Apr,both,a11,bl,2019at25,at25,passive,summer,09/17/2019,"kf, km, as",little tweedsmuir,699677,5805811,9,41505,female,grizzly,2019,Platform_Drift
+nt,41508,at30,7,2019at3007,10-Apr,10-Apr,both,a5,bl,2019at30,at30,passive,summer,09/17/2019,"kf, km, as",holly's side channel,700379,5805728,9,41473,female,grizzly,2019,Platform_Drift
+nt,43001,at18,5,2021at1805,10-Apr,n/a,g,b25,mixed,2021at18,at18,passive,summer,09/14/2021,"ns, rs, ei",mosher,298837,5809638,10,36879,female,grizzly,2021,Landbased
+nt,43002,at06,4,2021at0604,>10,>10,both,a5,br,2021at06,at06,passive,summer,08/30/2021,"kf, sm, nc",sheep creek,309224,5807406,10,50364,female,grizzly,2021,Reference
+nt,43020,at15,11,2019at1511,lots,lots,both,a2,br,2019at15,at15,passive,fall,10/22/2019,"kf, as, km",camp creek,301453,5810381,10,40119,female,grizzly,2019,Landbased
+nt,43021,at23,11,2019at2311,lots,lots,both,a10,bl,2019at23,at23,passive,fall,10/22/2019,"kf, as, km",kettle confluence,701627,5805155,9,49914,female,grizzly,2019,Landbased
+nt,43022,at23,11,2019at2311,lots,lots,both,a11,mixed,2019at23,at23,passive,fall,10/22/2019,"kf, as, km",kettle confluence,701627,5805155,9,49914,female,grizzly,2019,Landbased
+nt,43025,at16,11,2019at1611,10-Apr,>10,both,c10,br,2019at16,at16,passive,fall,10/22/2019,"kf, as, km",lost hat,300787,5810425,10,40051,male,grizzly,2019,Landbased
+nt,43089,at01,3,2019at0103,>10,lots,both,a11,br,2019at01,at01,passive,summer,08/18/2019,"kf, as",stillwater forest,311025,5803339,10,43089,male,grizzly,2019,Reference
+nt,43104,at07,3,2019at0703,10-Apr,10-Apr,both,a16,br,2019at07,at07,passive,summer,08/17/2019,"as, km",talus slide,308326,5808239,10,36879,female,grizzly,2019,Reference
+nt,43262,at20,5,2019at2005,>10,>10,both,a18,mixed,2019at20,at20,passive,summer,08/28/2019,"as, km",fish bone,297417,5807661,10,41396,female,grizzly,2019,Landbased
+nt,43312,at21,5,2019at2105,10-Apr,10-Apr,both,b23,br,2019at21,at21,passive,summer,08/28/2019,"as, km",cub cry,296573,5806559,10,43312,female,grizzly,2019,Landbased
+nt,43314,at10,4,2019at1004,10-Apr,10-Apr,both,8,br,2019at10,at10,passive,summer,08/24/2019,"ch,kf,km",billy's cabin,306611,5809269,10,40051,male,grizzly,2019,Landbased
+nt,43316,at03,3,2019at0303,10-Apr,>10,both,a25,br,2019at03,at03,passive,summer,08/18/2019,"kf, as",hotnarko mouth,310595,5804687,10,36879,female,grizzly,2019,Reference
+nt,43323,at17,3,2019at1703,lots,lots,both,a20,br,2019at17,at17,passive,summer,08/15/2019,"kf, as",bc wrights,299622,5810216,10,43323,male,grizzly,2019,Landbased
+nt,43326,at02,0,2019at0200,10-Apr,,g,a15,br,2019at02,at02,passive,summer,07/22/2019,"as, kf, dk, rp",stillwater falls,310913,5804151,10,32361,female,grizzly,2019,Reference
+nt,43327,at07,1,2019at0701,,10-Apr,u,13',br,2019at07,at07,passive,summer,08/03/2019,"kf, km, qh",talus slide,308326,5808239,10,43327,male,black,2019,Reference
+nt,43329,at11,1,2019at1101,>10,,g,a4,br,2019at11,at11,passive,summer,08/03/2019,"kf, qh, km",frog water,305595,5809726,10,26814,female,black,2019,Landbased
+nt,43332,at11,1,2019at1101,>10,lots,both,a10,br,2019at11,at11,passive,summer,08/03/2019,"kf, qh, km",frog water,305595,5809726,10,43332,female,grizzly,2019,Landbased
+nt,43334,at06,2,2019at0602,10-Apr,>10,both,a13,br,2019at06,at06,passive,summer,08/04/2019,"kf, seas",sheep creek,309246,5807378,10,43089,male,grizzly,2019,Reference
+nt,43335,at06,2,2019at0602,>10,>10,both,a8,br,2019at06,at06,passive,summer,08/04/2019,"kf, seas",sheep creek,309246,5807378,10,43089,male,grizzly,2019,Reference
+nt,43336,at25,2,2019at2502,>10,,g,b9,br,2019at25,at25,passive,summer,08/09/2019,"kf, km, as",little tweedsmuir,699677,5805811,9,32361,female,grizzly,2019,Platform_Drift
+nt,43337,at20,3,2019at2003,10-Apr,10-Apr,both,a11,mixed,2019at20,at20,passive,summer,08/12/2019,"kf, as",fish bone,297417,5807661,10,43323,male,grizzly,2019,Landbased
+nt,43341,at14,5,2019at1405,10-Apr,,g,b22,mixed,2019at14,at14,passive,summer,08/28/2019,"as, km",atnarko campground beach,302041,5809940,10,43341,male,grizzly,2019,Landbased
+nt,43347,at21,3,2019at2103,10-Apr,10-Apr,both,c27,br,2019at21,at21,passive,summer,08/12/2019,"kf, as",cub cry,296573,5806559,10,49830,female,grizzly,2019,Landbased
+nt,43348,at14,3,2019at1403,10-Apr,,g,a34,br,2019at14,at14,passive,summer,08/13/2019,"kf, as",atnarko campground beach,302041,5809940,10,43348,female,grizzly,2019,Landbased
+nt,43352,at22,1,2019at2201,10-Apr,,g,b16,br,2019at22,at22,passive,summer,07/30/2019,"kf, rb, as",trolley northside,703795,5805229,9,32361,female,grizzly,2019,Landbased
+nt,43360,at11,4,2019at1104,10-Apr,10-Apr,both,6,bl,2019at11,at11,passive,summer,08/24/2019,"ch,kf,km",frog water,305595,5809726,10,43360,male,grizzly,2019,Landbased
+nt,43361,at19,2,2019at1902,10-Apr,10-Apr,both,14,br,2019at19,at19,passive,summer,08/02/2019,"qh, kf, dk, rp",eagle slough,297868,5808926,10,43361,female,black,2019,Landbased
+nt,43366,at22,3,2019at2203,>10,10-Apr,both,a20,bl,2019at22,at22,passive,summer,08/12/2019,"kf, as",trolley northside,703795,5805229,9,40087,female,black,2019,Landbased
+nt,43391,at05,0,2019at0500,10-Apr,10-Apr,both,a4,br,2019at05,at05,passive,summer,07/22/2019,"as, kf, dk, rp",line cabin,309302,5806163,10,32361,female,grizzly,2019,Reference
+nt,43396,at25,4,2019at2505,10-Apr,10-Apr,both,a8,mixed,2019at25,at25,passive,summer,08/22/2019,"as, km, bc",little tweedsmuir,699677,5805811,9,17079,female,grizzly,2019,Platform_Drift
+nt,43400,at08,1,2019at0801,10-Apr,,g,b17,bl,2019at08,at08,passive,summer,08/03/2019,"kf, qh, km",63 hole,307975,5808563,10,43410,female,black,2019,Reference
+nt,43405,at25,8,2019at2508,10-Apr,10-Apr,both,a5,bl,2019at25,at25,passive,fall,09/27/2019,"as, kf, km",little tweedsmuir,699677,5805811,9,22477,male,black,2019,Platform_Drift
+nt,43407,at26,8,2019at2608,>10,>10,both,34,mixed,2019at26,at26,passive,fall,09/27/2019,"as, kf, km",big tweedsmuir,699240,5806240,9,43407,female,grizzly,2019,Platform_Drift
+nt,43408,at25,8,2019at2508,10-Apr,10-Apr,both,a12,bl,2019at25,at25,passive,fall,09/27/2019,"as, kf, km",little tweedsmuir,699677,5805811,9,36523,female,black,2019,Platform_Drift
+nt,43409,at15,7,2019at1507,10-Apr,,g,a8,mixed,2019at15,at15,passive,summer,09/10/2019,"kf, as",camp creek,301453,5810381,10,41396,female,grizzly,2019,Landbased
+nt,43410,at08,1,2019at0801,10-Apr,lots,both,b7,bl,2019at08,at08,passive,summer,08/03/2019,"kf, qh, km",63 hole,307975,5808563,10,43410,female,black,2019,Reference
+nt,43413,at09,1,2019at0901,10-Apr,,g,b7,br,2019at09,at09,passive,summer,08/03/2019,"kf, qh, km",blair's hole,307603,5808688,10,32361,female,grizzly,2019,Reference
+nt,43416,at01,5,2019at0105,10-Apr,10-Apr,both,a17,br,2019at01,at01,passive,summer,08/29/2019,"kf, as, bc",stillwater forest,311025,5803339,10,43416,female,grizzly,2019,Reference
+nt,43421,at14,5,2019at1405,>10,>10,both,coil 3 o'clock,mixed,2019at14,at14,passive,summer,08/28/2019,"as, km",atnarko campground beach,302041,5809940,10,32361,female,grizzly,2019,Landbased
+nt,43428,at14,2,2021at1402,10-Apr,n/a,g,a35,mixed,2021at14,at14,passive,summer,08/11/2021,"ns, sm, ei, rs",atnarko campground,302042,5809951,10,36879,female,grizzly,2021,Landbased
+nt,43432,at25,4,2019at2505,10-Apr,,g,b20,br,2019at25,at25,passive,summer,08/22/2019,"as, km, bc",little tweedsmuir,699677,5805811,9,43434,female,grizzly,2019,Platform_Drift
+nt,43434,at25,4,2019at2505,>10,>10,both,b18,bl,2019at25,at25,passive,summer,08/22/2019,"as, km, bc",little tweedsmuir,699677,5805811,9,43434,female,grizzly,2019,Platform_Drift
+nt,43440,at01,5,2019at0105,10-Apr,10-Apr,both,a5,br,2019at01,at01,passive,summer,08/29/2019,"kf, as, bc",stillwater forest,311025,5803339,10,43440,female,grizzly,2019,Reference
+nt,43446,at05,9,2019at0509,>10,,g,c11,br,2019at05,at05,passive,fall,10/01/2019,"kf, as, km",line cabin,309302,5806163,10,43446,female,grizzly,2019,Reference
+nt,43449,at10,9,2019at1009,>10,>10,both,a29,br,2019at10,at10,passive,fall,10/07/2019,"as, kf, km",billy's cabin,306611,5809269,10,41472,female,grizzly,2019,Landbased
+nt,43451,at10,9,2019at1009,>10,10-Apr,both,a24,br,2019at10,at10,passive,fall,10/07/2019,"as, kf, km",billy's cabin,306611,5809269,10,41472,female,grizzly,2019,Landbased
+nt,43457,at07,2,2019at0702,10-Apr,>10,both,a63,br,2019at07,at07,passive,summer,08/13/2019,"kf, jm, as",talus slide,308326,5808239,10,43089,male,grizzly,2019,Reference
+nt,43462,at03,1,2019at0301,10-Apr,10-Apr,both,coil,bl,2019at03,at03,passive,summer,07/29/2019,"as, kf",hotnarko mouth,310595,5804687,10,57049,female,black,2019,Reference
+nt,43464,at06,1,2019at0601,lots,lots,both,a15,bl,2019at06,at06,passive,summer,07/29/2019,"as, kf",sheep creek,309246,5807378,10,43464,female,black,2019,Reference
+nt,43469,at08,9,2019at0809,>10,>10,both,a6,br,2019at08,at08,passive,fall,10/07/2019,"as, kf, km",63 hole,307975,5808563,10,40086,female,grizzly,2019,Reference
+nt,43471,at09,9,2019at0909,>10,>10,both,b20,mixed,2019at09,at09,passive,fall,10/07/2019,"as, kf, km",blair's hole,307603,5808688,10,43471,female,grizzly,2019,Reference
+nt,43472,at17,10,2019at1710,10-Apr,10-Apr,both,c33,bl,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,40032,female,black,2019,Landbased
+nt,43472b,at28,9,2019at2809,10-Apr,>10,both,a14,br,2019at28,at28,passive,fall,10/07/2019,"as, kf, km",sockeye island,306979,5809332,10,32381,male,grizzly,2019,Landbased
+nt,43481,at06,5,2019at0605,lots,,g,a17,br,2019at06,at06,passive,summer,08/29/2019,"kf, as, bc",sheep creek,309246,5807378,10,43481,female,grizzly,2019,Reference
+nt,43485,at10,3,2019at1003,10-Apr,,g,a15,br,2019at10,at10,passive,summer,08/17/2019,"as, km",billy's cabin,306611,5809269,10,36879,female,grizzly,2019,Landbased
+nt,43487,at06,1,2019at0601,10-Apr,10-Apr,both,a30,br,2019at06,at06,passive,summer,07/29/2019,"as, kf",sheep creek,309246,5807378,10,17104,male,black,2019,Reference
+nt,43492,at01,1,2019at0101,>10,>10,both,a5,br,2019at01,at01,passive,summer,07/29/2019,"as, kf",stillwater forest,311025,5803339,10,50520,male,grizzly,2019,Reference
+nt,43502,at11,4,2019at1104,10-Apr,,g,a33,bl,2019at11,at11,passive,summer,08/24/2019,"ch,kf,km",frog water,305595,5809726,10,30354,female,grizzly,2019,Landbased
+nt,43504,at25,4,2019at2505,03-Jan,>10,both,b6,br,2019at25,at25,passive,summer,08/22/2019,"as, km, bc",little tweedsmuir,699677,5805811,9,43312,female,grizzly,2019,Platform_Drift
+nt,43507,at19,7,2019at1907,10-Apr,10-Apr,both,a7,bl,2019at19,at19,passive,summer,09/10/2019,"kf, as, km",eagle slough,297868,5808926,10,43507,female,black,2019,Landbased
+nt,43509,at11,12,2019at1112,10-Apr,03-Jan,both,a4,br,2019at11,at11,passive,fall,11/05/2019,"km, jm, kf",frog water,305595,5809726,10,40051,male,grizzly,2019,Landbased
+nt,49500,at30,12,2019at3012,>10,03-Jan,both,a5,bl,2019at30,at30,passive,fall,11/04/2019,"kf, as, km",holly's side channel,700379,5805728,9,49988,female,grizzly,2019,Platform_Drift
+nt,49503,at08,12,2019at0812,>10,>10,both,b8,bl,2019at08,at08,passive,fall,11/05/2019,"km, jm, kf",63 hole,307975,5808563,10,40119,female,grizzly,2019,Reference
+nt,49505,at17,11,2019at1711,lots,>10,both,c6,br,2019at17,at17,passive,fall,10/22/2019,"kf, as, km",bc wrights,299622,5810216,10,40119,female,grizzly,2019,Landbased
+nt,49508,at17,11,2019at1711,>10,>10,both,c24,br,2019at17,at17,passive,fall,10/22/2019,"kf, as, km",bc wrights,299622,5810216,10,50552,female,grizzly,2019,Landbased
+nt,49535,at05,12,2019at0512,>10,lots,both,a6,br,2019at05,at05,passive,fall,11/03/2019,"as, kf, js",line cabin,309302,5806163,10,49535,male,grizzly,2019,Reference
+nt,49560,at15,10,2021at1510,10-Apr,>10,both,a15,br,2021at15,at15,passive,summer,10/25/2021,"ns, ei, ip",camp creek,301454,5810377,10,40157,male,grizzly,2021,Landbased
+nt,49562,at16,10,2021at1610,10-Apr,10-Apr,both,b4,mixed,2021at16,at16,passive,summer,10/25/2021,"ns, ei, ip",lost hat,300800,5810409,10,50552,female,grizzly,2021,Landbased
+nt,49563,at05,9,2021at0509,>10,03-Jan,both,a39,br,2021at05,at05,passive,summer,10/21/2021,"kf, rs, ei",line cabin,309292,5806176,10,30354,female,grizzly,2021,Reference
+nt,49564,at15,9,2021at1509,03-Jan,>10,both,a11,bl,2021at15,at15,passive,summer,10/18/2021,"sm, ei, ns",camp creek,301454,5810377,10,49576,male,grizzly,2021,Landbased
+nt,49569,at24,7,2021at2407,lots,lots,both,b29,mixed,2021at24,at24,passive,summer,09/21/2021,"kf, sm, rs",belarko,700609,5805750,9,38709,female,grizzly,2021,Platform_Drift
+nt,49570,at24,7,2021at2407,lots,lots,both,b30,mixed,2021at24,at24,passive,summer,09/21/2021,"kf, sm, rs",belarko,700609,5805750,9,38709,female,grizzly,2021,Platform_Drift
+nt,49573,at23,3,2021at2303,lots,lots,both,a16,br,2021at23,at23,passive,summer,08/20/2021,"sm, ei, sy",kettle confluence,701637,5805050,9,18219,female,grizzly,2021,Landbased
+nt,49576,at15,9,2021at1509,lots,10-Apr,both,a10,mixed,2021at15,at15,passive,summer,10/18/2021,"sm, ei, ns",camp creek,301454,5810377,10,49576,male,grizzly,2021,Landbased
+nt,49842,at16,7,2019at1607,10-Apr,10-Apr,both,b2,br,2019at16,at16,passive,summer,09/10/2019,"kf, as, km",lost hat,300787,5810425,10,50552,female,grizzly,2019,Landbased
+nt,49854,at18,7,2019at1807,10-Apr,10-Apr,both,a7,br,2019at18,at18,passive,summer,09/10/2019,"kf, as, km",mosher,298849,5809590,10,50552,female,grizzly,2019,Landbased
+nt,49856,at16,6,2019at1606,10-Apr,,g,b29,br,2019at16,at16,passive,summer,09/03/2019,"as, km",lost hat,300787,5810425,10,50552,female,grizzly,2019,Landbased
+nt,49860,at16,6,2019at1606,>10,>10,both,b24,br,2019at16,at16,passive,summer,09/03/2019,"as, km",lost hat,300787,5810425,10,40051,male,grizzly,2019,Landbased
+nt,49863,at10,5,2019at1005,lots,lots,both,a20,bl,2019at10,at10,passive,summer,08/30/2019,"as, km, bc",billy's cabin,306611,5809269,10,49863,female,grizzly,2019,Landbased
+nt,49867,at17,10,2019at1710,10-Apr,10-Apr,both,a13,br,2019at17,at17,passive,fall,10/08/2019,"kf, as, km",bc wrights,299622,5810216,10,43089,male,grizzly,2019,Landbased
+nt,49873,at05,6,2019at0506,lots,lots,both,a5,mixed,2019at05,at05,passive,summer,09/05/2019,"kf, as",line cabin,309302,5806163,10,40119,female,grizzly,2019,Reference
+nt,49874,at05,6,2019at0506,>10,>10,both,a3,br,2019at05,at05,passive,summer,09/05/2019,"kf, as",line cabin,309302,5806163,10,50552,female,grizzly,2019,Reference
+nt,49877,at25,9,2019at2509,10-Apr,,g,a52,br,2019at25,at25,passive,fall,10/08/2019,"kf, as, km",little tweedsmuir,699677,5805811,9,49877,female,grizzly,2019,Platform_Drift
+nt,49878,at22,4,2019at2204,10-Apr,03-Jan,both,a18,bl,2019at22,at22,passive,summer,08/20/2019,"km, as",trolley northside,703795,5805229,9,43507,female,black,2019,Landbased
+nt,49879,at13,4,2019at1304,10-Apr,,g,b20,bl,2019at13,at13,passive,summer,08/20/2019,"km, as",wood cut road,304271,5810444,10,41322,male,grizzly,2019,Landbased
+nt,49882,at14,4,2019at1404,>10,>10,both,b54,mixed,2019at14,at14,passive,summer,08/20/2019,"km, as",atnarko campground beach,302041,5809940,10,43348,female,grizzly,2019,Landbased
+nt,49887,at14,4,2019at1404,10-Apr,10-Apr,both,b60,br,2019at14,at14,passive,summer,08/20/2019,"km, as",atnarko campground beach,302041,5809940,10,36879,female,grizzly,2019,Landbased
+nt,49888,at14,4,2019at1404,10-Apr,,g,b56,br,2019at14,at14,passive,summer,08/20/2019,"km, as",atnarko campground beach,302041,5809940,10,43348,female,grizzly,2019,Landbased
+nt,49890,at08,5,2019at0805,10-Apr,10-Apr,both,b10,mixed,2019at08,at08,passive,summer,08/30/2019,"as, km, bc",63 hole,307975,5808563,10,57176,female,grizzly,2019,Reference
+nt,49896,at19,4,2019at1904,10-Apr,,g,a13,mixed,2019at19,at19,passive,summer,08/22/2019,"as, bc",eagle slough,297868,5808926,10,43360,male,grizzly,2019,Landbased
+nt,49897,at08,5,2019at0805,10-Apr,10-Apr,both,b8,br,2019at08,at08,passive,summer,08/30/2019,"as, km, bc",63 hole,307975,5808563,10,57176,female,grizzly,2019,Reference
+nt,49898,at13,6,2019at1306,>10,10-Apr,both,b1,mixed,2019at13,at13,passive,summer,09/03/2019,"as, km",wood cut road,304271,5810444,10,41396,female,grizzly,2019,Landbased
+nt,49903,at09,5,2019at0905,10-Apr,,g,b9,br,2019at09,at09,passive,summer,08/30/2019,"as, km, bc",blair's hole,307603,5808688,10,50520,male,grizzly,2019,Reference
+nt,49904,at25,6,2019at2506,10-Apr,10-Apr,both,a14,br,2019at25,at25,passive,summer,09/07/2019,"as, km, hw",little tweedsmuir,699677,5805811,9,40221,female,grizzly,2019,Platform_Drift
+nt,49906,at25,6,2019at2506,lots,lots,both,a13,mixed,2019at25,at25,passive,summer,09/07/2019,"as, km, hw",little tweedsmuir,699677,5805811,9,40221,female,grizzly,2019,Platform_Drift
+nt,49907,at25,6,2019at2506,>10,>10,both,a8,mixed,2019at25,at25,passive,summer,09/07/2019,"as, km, hw",little tweedsmuir,699677,5805811,9,49907,male,grizzly,2019,Platform_Drift
+nt,49914,at15,11,2019at1511,lots,lots,both,b24,mixed,2019at15,at15,passive,fall,10/22/2019,"kf, as, km",camp creek,301453,5810381,10,49914,female,grizzly,2019,Landbased
+nt,49917,at09,5,2019at0905,10-Apr,,g,a20,br,2019at09,at09,passive,summer,08/30/2019,"as, km, bc",blair's hole,307603,5808688,10,43440,female,grizzly,2019,Reference
+nt,49918,at09,5,2019at0905,10-Apr,>10,both,a22,mixed,2019at09,at09,passive,summer,08/30/2019,"as, km, bc",blair's hole,307603,5808688,10,40020,female,grizzly,2019,Reference
+nt,49923,at29,8,2019at2908,10-Apr,>10,both,b7,br,2019at29,at29,passive,fall,09/27/2019,"as, kf, km",fisheries pool 2,698609,5806891,9,40134,male,grizzly,2019,Platform_Drift
+nt,49924,at29,8,2019at2908,10-Apr,10-Apr,both,b5,bl,2019at29,at29,passive,fall,09/27/2019,"as, kf, km",fisheries pool 2,698609,5806891,9,49924,male,black,2019,Platform_Drift
+nt,49930,at27,4,2019at2704,lots,,both,b13,mixed,2019at27,at27,passive,summer,08/22/2019,"as, km, bc",fisheries pool,698505,5806929,9,49930,female,grizzly,2019,Platform_Drift
+nt,49931,at27,4,2019at2704,10-Apr,<10,both,b14,br,2019at27,at27,passive,summer,08/22/2019,"as, km, bc",fisheries pool,698505,5806929,9,49930,female,grizzly,2019,Platform_Drift
+nt,49935,at15,4,2019at1504,10-Apr,10-Apr,both,b16,mixed,2019at15,at15,passive,summer,08/20/2019,"km, as",camp creek,301453,5810381,10,43312,female,grizzly,2019,Landbased
+nt,49937,at13,6,2019at1306,10-Apr,,g,b5,mixed,2019at13,at13,passive,summer,09/03/2019,"as, km",wood cut road,304271,5810444,10,41396,female,grizzly,2019,Landbased
+nt,49949,at01,9,2019at0109,03-Jan,10-Apr,both,a5,br,2019at01,at01,passive,fall,10/02/2019,"as, kf, km",stillwater forest,311025,5803339,10,40201,male,grizzly,2019,Reference
+nt,49955,at14,10,2019at1410,>10,10-Apr,both,a17,br,2019at14,at14,passive,fall,10/07/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,41396,female,grizzly,2019,Landbased
+nt,49957,at14,10,2019at1410,>10,>10,both,a13,br,2019at14,at14,passive,fall,10/07/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,40051,male,grizzly,2019,Landbased
+nt,49959,at01,9,2019at0109,10-Apr,>10,both,a30,br,2019at01,at01,passive,fall,10/02/2019,"as, kf, km",stillwater forest,311025,5803339,10,41393,male,grizzly,2019,Reference
+nt,49972,at30,8,2019at3008,>10,>10,both,a19,bl,2019at30,at30,passive,fall,09/27/2019,"kf, km, as",holly's side channel,700379,5805728,9,36523,female,black,2019,Platform_Drift
+nt,49976,at16,10,2019at1610,>10,>10,both,a4,br,2019at16,at16,passive,fall,10/08/2019,"kf, as, km",lost hat,300787,5810425,10,17079,female,grizzly,2019,Landbased
+nt,49980,at14,4,2019at1404,10-Apr,10-Apr,both,a15,br,2019at14,at14,passive,summer,08/20/2019,"km, as",atnarko campground beach,302041,5809940,10,36879,female,grizzly,2019,Landbased
+nt,49982,at20,4,2019at2004,lots,lots,both,21,mixed,2019at20,at20,passive,summer,08/20/2019,"km, as",fish bone,297417,5807661,10,43507,female,black,2019,Landbased
+nt,49983,at20,4,2019at2004,>10,,g,33,mixed,2019at20,at20,passive,summer,08/20/2019,"km, as",fish bone,297417,5807661,10,43507,female,black,2019,Landbased
+nt,49988,at25,6,2019at2506,10-Apr,,g,b9,bl,2019at25,at25,passive,summer,09/07/2019,"as, km, hw",little tweedsmuir,699677,5805811,9,49988,female,grizzly,2019,Platform_Drift
+nt,49994,at16,7,2019at1607,>10,>10,both,b3,mixed,2019at16,at16,passive,summer,09/10/2019,"kf, as, km",lost hat,300787,5810425,10,50552,female,grizzly,2019,Landbased
+nt,49998,at25,3,2019at2503,>10,>10,both,a5,mixed,2019at25,at25,passive,summer,08/17/2019,"kf, sh",little tweedsmuir,699677,5805811,9,43332,female,grizzly,2019,Platform_Drift
+nt,50258,at16,10,2019at1610,>10,,g,b27,br,2019at16,at16,passive,fall,10/08/2019,"kf, as, km",lost hat,300787,5810425,10,50258,female,grizzly,2019,Landbased
+nt,50328,at16,10,2019at1610,>10,,g,b23,mixed,2019at16,at16,passive,fall,10/08/2019,"kf, as, km",lost hat,300787,5810425,10,36879,female,grizzly,2019,Landbased
+nt,50364,at07,6,2019at0706,10-Apr,10-Apr,both,a05,br,2019at07,at07,passive,summer,09/06/2019,"jm, qh, de",talus slide,308326,5808239,10,50364,female,grizzly,2019,Reference
+nt,50366,at07,6,2019at0706,03-Jan,03-Jan,both,a14,br,2019at07,at07,passive,summer,09/06/2019,"jm, qh, de",talus slide,308326,5808239,10,50366,female,grizzly,2019,Reference
+nt,50577,at17,11,2019at1711,lots,lots,both,b44,br,2019at17,at17,passive,fall,10/22/2019,"kf, as, km",bc wrights,299622,5810216,10,50552,female,grizzly,2019,Landbased
+nt,52558,at20,1,2019at2001,>10,10-Apr,both,a12,mixed,2019at20,at20,passive,summer,07/30/2019,"kf, rb, as",fish bone,297417,5807661,10,43323,male,grizzly,2019,Landbased
+nt,52650,at14,7,2019at1407,10-Apr,>10,both,a51,br,2019at14,at14,passive,summer,09/10/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,40051,male,grizzly,2019,Landbased
+nt,52692,at14,7,2019at1407,10-Apr,,g,a42,br,2019at14,at14,passive,summer,09/10/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,40051,male,grizzly,2019,Landbased
+nt,52903,at02,10,2019at0210,>10,10-Apr,both,a16,mixed,2019at02,at02,passive,fall,10/16/2019,"kf, as",stillwater falls,310913,5804151,10,43434,female,grizzly,2019,Reference
+nt,52905,at14,11,2019at1411,>10,>10,both,a43,br,2019at14,at14,passive,fall,10/22/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,50552,female,grizzly,2019,Landbased
+nt,52980,at14,7,2019at1407,10-Apr,,g,b3,mixed,2019at14,at14,passive,summer,09/10/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,40119,female,grizzly,2019,Landbased
+nt,52981,at08,6,2019at0806,,>10,u,a6,br,2019at08,at08,passive,summer,09/06/2019,"bw, de, ta, km",63 hole,307975,5808563,10,32294,female,grizzly,2019,Reference
+nt,52983,at14,7,2019at1407,>10,,g,b20,bl,2019at14,at14,passive,summer,09/10/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,50552,female,grizzly,2019,Landbased
+nt,52985,at28,6,2019at2806,10-Apr,10-Apr,both,a14,bl,2019at28,at28,passive,summer,09/06/2019,"jm, qh, de",sockeye island,306979,5809332,10,50552,female,grizzly,2019,Landbased
+nt,52986,at09,6,2019at0906,,>10,u,a17,br,2019at09,at09,passive,summer,09/06/2019,"jm, qh, de",blair's hole,307603,5808688,10,40024,female,grizzly,2019,Reference
+nt,52988,at05,10,2019at0510,lots,lots,both,a1,br,2019at05,at05,passive,fall,10/16/2019,"kf, as ",line cabin,309302,5806163,10,52988,female,grizzly,2019,Reference
+nt,52989,at05,10,2019at0510,lots,lots,both,a4,br,2019at05,at05,passive,fall,10/16/2019,"kf, as ",line cabin,309302,5806163,10,52988,female,grizzly,2019,Reference
+nt,52995,at05,10,2019at0510,10-Apr,10-Apr,both,a6,br,2019at05,at05,passive,fall,10/16/2019,"kf, as ",line cabin,309302,5806163,10,43446,female,grizzly,2019,Reference
+nt,55769,at14,7,2019at1407,lots,lots,both,coil 3 o'clock,br,2019at14,at14,passive,summer,09/10/2019,"kf, as, km",atnarko campground beach,302041,5809940,10,50552,female,grizzly,2019,Landbased
+nt,55771,at28,6,2019at2806,10-Apr,>10,both,a13,br,2019at28,at28,passive,summer,09/06/2019,"jm, qh, de",sockeye island,306979,5809332,10,50552,female,grizzly,2019,Landbased
+nt,57361,at06,10,2021at0610,>10,lots,both,a7,br,2021at06,at06,passive,summer,10/29/2021,"rs, ei, kf",sheep creek,309224,5807406,10,30354,female,grizzly,2021,Reference
+nt,57365,at24b,7,2021at24b07,10-Apr,10-Apr,both,b31,br,2021at24b,at24b,passive,summer,09/21/2021,"kf, sm, rs",belarko 2,700555,5805746,9,40108,female,grizzly,2021,Platform_Drift
+nt,57376,at05,3,2021at0503,lots,lots,both,a41,br,2021at05,at05,passive,summer,08/24/2021,"nc, sm, ei",line cabin,309292,5806176,10,38818,male,grizzly,2021,Reference
+nt,57377,at11,1,2021at1101,03-Jan,03-Jan,both,a2,mixed,2021at11,at11,passive,summer,08/12/2021,"ns, sm, ei, rs",frog water,305584,5809732,10,36879,female,grizzly,2021,Landbased
+nt,57380,at16,2,2021at1602,lots,lots,both,b16,br,2021at16,at16,passive,summer,08/11/2021,"ns, sm, ei, rs",lost hat,300800,5810409,10,18237,male,grizzly,2021,Landbased
+nt,57382,at16,2,2021at1602,10-Apr,n/a,g,c23,br,2021at16,at16,passive,summer,08/11/2021,"ns, sm, ei, rs",lost hat,300800,5810409,10,36879,female,grizzly,2021,Landbased
+nt,58039,at22,12,2019at2212,>10,>10,both,a6,br,2019at22,at22,passive,fall,11/01/2019,"as, kf, km",trolley northside,703795,5805229,9,50552,female,grizzly,2019,Landbased
+nt,58237,at10,6,2019at1006,,>10,u,a30,br,2019at10,at10,passive,summer,09/06/2019,"jm, qh, de",billy's cabin,306611,5809269,10,49863,female,grizzly,2019,Landbased
